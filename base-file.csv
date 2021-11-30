@@ -1,0 +1,3 @@
+customer_id;calculation_type;origin;destination;weight_in_tonnes;specific_method
+test-id;air_freight;TXL;HAM;1;freighter;
+123;ship_freight;DEBER;DEHAM;1;reefer_cargo;

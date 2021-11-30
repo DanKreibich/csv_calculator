@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: MyString
+  calculation_type: MyString
+  origin: MyString
+  destination: MyString
+  weight_in_tonnes: 1.5
+  specific_method: MyString
+
+two:
+  customer_id: MyString
+  calculation_type: MyString
+  origin: MyString
+  destination: MyString
+  weight_in_tonnes: 1.5
+  specific_method: MyString

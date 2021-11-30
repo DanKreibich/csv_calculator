@@ -1,0 +1,752 @@
+id,customer_id,calculation_type,origin,destination,weight_in_tonnes,specific_method,created_at,updated_at,co2_in_g,file_name
+425,CVO-2201,truck,"London, United Kingdom","Paris, France",0.01112,"",2021-09-07 16:09:23 UTC,2021-09-07 16:09:23 UTC,301,Convelio202109071809220200
+426,CVO-4946,truck,"Le Cannet, France","London, United Kingdom",0.01112,"",2021-09-07 16:09:24 UTC,2021-09-07 16:09:24 UTC,904,Convelio202109071809220200
+427,CVO-2565,air_freight,"London, United Kingdom","Frankfurt am Main, Germany",0.01112,freighter,2021-09-07 16:09:25 UTC,2021-09-07 16:09:25 UTC,4911,Convelio202109071809220200
+428,CVO-2492,truck,"Gennevilliers, France","Monaco, Monaco",0.01112,"",2021-09-07 16:09:26 UTC,2021-09-07 16:09:26 UTC,612,Convelio202109071809220200
+429,CVO-7591,air_freight,"New York, United States","Monaco, Monaco",0.01112,freighter,2021-09-07 16:09:27 UTC,2021-09-07 16:09:27 UTC,33968,Convelio202109071809220200
+430,CVO-2300,truck,"Paris, France","Monaco, Monaco",0.01112,"",2021-09-07 16:09:28 UTC,2021-09-07 16:09:28 UTC,604,Convelio202109071809220200
+431,CVO-4202,air_freight,"New York, United States","Moskva, Russia",0.01112,freighter,2021-09-07 16:09:29 UTC,2021-09-07 16:09:29 UTC,40005,Convelio202109071809220200
+432,CVO-30334,truck,"Harlingen, United States","West Palm Beach, United States",0.01112,"",2021-09-07 16:09:30 UTC,2021-09-07 16:09:30 UTC,1539,Convelio202109071809220200
+433,CVO-29684,truck,"Los Angeles, United States","New York, United States",0.01112,"",2021-09-07 16:09:31 UTC,2021-09-07 16:09:31 UTC,3449,Convelio202109071809220200
+434,CVO-32658,truck,"Berkeley, United States","East Hampton, United States",0.01112,"",2021-09-07 16:09:32 UTC,2021-09-07 16:09:32 UTC,3731,Convelio202109071809220200
+435,CVO-30335,truck,"New York, United States","San Diego, United States",0.01112,"",2021-09-07 16:09:33 UTC,2021-09-07 16:09:33 UTC,3424,Convelio202109071809220200
+436,CVO-29033,truck,"Millersville, United States","Westlake Village, United States",0.01112,"",2021-09-07 16:09:34 UTC,2021-09-07 16:09:34 UTC,3318,Convelio202109071809220200
+437,CVO-16671,truck,"San Francisco, United States","Okatie, United States",0.01112,"",2021-09-07 16:09:35 UTC,2021-09-07 16:09:35 UTC,3324,Convelio202109071809220200
+438,CVO-18165,truck,"Santa Fe Springs, United States","Greenwich, United States",0.01112,"",2021-09-07 16:09:35 UTC,2021-09-07 16:09:35 UTC,3467,Convelio202109071809220200
+439,CVO-18855,truck,"Los Angeles, United States","Nashville, United States",0.01112,"",2021-09-07 16:09:36 UTC,2021-09-07 16:09:36 UTC,2506,Convelio202109071809220200
+440,CVO-18421,truck,"Greenwich, United States","Dobbs Ferry, United States",0.01112,"",2021-09-07 16:09:37 UTC,2021-09-07 16:09:37 UTC,18,Convelio202109071809220200
+441,CVO-17301,truck,"Santa Fe Springs, United States","Wellington, United States",0.01112,"",2021-09-07 16:09:38 UTC,2021-09-07 16:09:38 UTC,3241,Convelio202109071809220200
+442,CVO-18149,truck,"Napa, United States","Dallas, United States",0.01112,"",2021-09-07 16:09:39 UTC,2021-09-07 16:09:39 UTC,2084,Convelio202109071809220200
+443,CVO-21568,truck,"Santa Fe Springs, United States","Boca Grande, United States",0.01112,"",2021-09-07 16:09:40 UTC,2021-09-07 16:09:40 UTC,3077,Convelio202109071809220200
+444,CVO-18420,truck,"National City, United States","West Lake Hills, United States",0.01112,"",2021-09-07 16:09:41 UTC,2021-09-07 16:09:41 UTC,1618,Convelio202109071809220200
+445,CVO-18418,truck,"Newark, United States","West Lake Hills, United States",0.01112,"",2021-09-07 16:09:41 UTC,2021-09-07 16:09:41 UTC,2122,Convelio202109071809220200
+446,CVO-19964,truck,"Santa Fe Springs, United States","New York, United States",0.01112,"",2021-09-07 16:09:42 UTC,2021-09-07 16:09:42 UTC,3442,Convelio202109071809220200
+447,CVO-18506,truck,"Wilson, United States","Raleigh, United States",0.01112,"",2021-09-07 16:09:43 UTC,2021-09-07 16:09:43 UTC,605,Convelio202109071809220200
+448,CVO-24770,truck,"Harlingen, United States","Denver, United States",0.01112,"",2021-09-07 16:09:44 UTC,2021-09-07 16:09:44 UTC,1447,Convelio202109071809220200
+449,CVO-26896,truck,"Burr Ridge, United States","Los Angeles, United States",0.01112,"",2021-09-07 16:09:47 UTC,2021-09-07 16:09:47 UTC,2435,Convelio202109071809220200
+450,CVO-27392,truck,"Burr Ridge, United States","New York, United States",0.01112,"",2021-09-07 16:09:49 UTC,2021-09-07 16:09:49 UTC,1024,Convelio202109071809220200
+451,CVO-30332,truck,"Burr Ridge, United States","New York, United States",0.01112,"",2021-09-07 16:09:51 UTC,2021-09-07 16:09:51 UTC,1024,Convelio202109071809220200
+452,CVO-26293,truck,"New York, United States","Maspeth, United States",0.01112,"",2021-09-07 16:09:52 UTC,2021-09-07 16:09:52 UTC,8,Convelio202109071809220200
+453,CVO-24180,truck,"Burr Ridge, United States","Napa, United States",0.01112,"",2021-09-07 16:09:53 UTC,2021-09-07 16:09:53 UTC,2570,Convelio202109071809220200
+454,CVO-24373,truck,"Burr Ridge, United States","Washington, United States",0.01112,"",2021-09-07 16:09:54 UTC,2021-09-07 16:09:54 UTC,2326,Convelio202109071809220200
+455,CVO-29494,truck,"Denver, United States","Los Angeles, United States",0.01112,"",2021-09-07 16:09:54 UTC,2021-09-07 16:09:54 UTC,1171,Convelio202109071809220200
+456,CVO-26561,truck,"Chicago, United States","Long Island City, United States",0.01112,"",2021-09-07 16:09:55 UTC,2021-09-07 16:09:55 UTC,1006,Convelio202109071809220200
+457,CVO-22207,truck,"New York, United States","Brooklyn, United States",0.01112,"",2021-09-07 16:09:56 UTC,2021-09-07 16:09:56 UTC,5,Convelio202109071809220200
+458,CVO-25258,truck,"Mount Vernon, United States","San Francisco, United States",0.01112,"",2021-09-07 16:09:57 UTC,2021-09-07 16:09:57 UTC,3435,Convelio202109071809220200
+459,CVO-29683,truck,"National City, United States","Los Angeles, United States",0.01112,"",2021-09-07 16:09:58 UTC,2021-09-07 16:09:58 UTC,163,Convelio202109071809220200
+460,CVO-21441,truck,"National City, United States","National City, United States",0.01112,"",2021-09-07 16:09:58 UTC,2021-09-07 16:09:58 UTC,0,Convelio202109071809220200
+461,CVO-32016,truck,"New York, United States","New York, United States",0.01112,"",2021-09-07 16:09:59 UTC,2021-09-07 16:09:59 UTC,0,Convelio202109071809220200
+462,CVO-25884,truck,"Newark, United States","New Castle, United States",0.01112,"",2021-09-07 16:10:00 UTC,2021-09-07 16:10:00 UTC,147,Convelio202109071809220200
+463,CVO-17071,truck,"New York, United States","Wellington, United States",0.01112,"",2021-09-07 16:10:01 UTC,2021-09-07 16:10:01 UTC,1460,Convelio202109071809220200
+464,CVO-16683,truck,"Water Mill, United States","Libertyville, United States",0.01112,"",2021-09-07 16:10:02 UTC,2021-09-07 16:10:02 UTC,1144,Convelio202109071809220200
+465,CVO-16004,truck,"Irvine, United States","East Hampton, United States",0.01112,"",2021-09-07 16:10:03 UTC,2021-09-07 16:10:03 UTC,3566,Convelio202109071809220200
+466,CVO-16676,truck,"Long Grove, United States","Brunswick, United States",0.01112,"",2021-09-07 16:10:04 UTC,2021-09-07 16:10:04 UTC,1188,Convelio202109071809220200
+467,CVO-16539,truck,"Gardena, United States","Chatham, United States",0.01112,"",2021-09-07 16:10:05 UTC,2021-09-07 16:10:05 UTC,3750,Convelio202109071809220200
+468,CVO-14675,truck,"Gardena, United States","Jersey City, United States",0.01112,"",2021-09-07 16:10:05 UTC,2021-09-07 16:10:05 UTC,3458,Convelio202109071809220200
+469,CVO-14578,truck,"Houston, United States","Austin, United States",0.01112,"",2021-09-07 16:10:06 UTC,2021-09-07 16:10:06 UTC,207,Convelio202109071809220200
+470,CVO-14058,truck,"Washington, United States","Ridgewood, United States",0.01112,"",2021-09-07 16:10:07 UTC,2021-09-07 16:10:07 UTC,3263,Convelio202109071809220200
+471,CVO-15413,truck,"Burlingame, United States","Houston, United States",0.01112,"",2021-09-07 16:10:08 UTC,2021-09-07 16:10:08 UTC,2307,Convelio202109071809220200
+472,CVO-15020,truck,"Phoenix, United States","Palm Beach, United States",0.01112,"",2021-09-07 16:10:09 UTC,2021-09-07 16:10:09 UTC,2769,Convelio202109071809220200
+473,CVO-21444,truck,"New York, United States","Lexington, United States",0.01112,"",2021-09-07 16:10:09 UTC,2021-09-07 16:10:09 UTC,832,Convelio202109071809220200
+474,CVO-20285,truck,"Newark, United States","West Palm Beach, United States",0.01112,"",2021-09-07 16:10:10 UTC,2021-09-07 16:10:10 UTC,1446,Convelio202109071809220200
+475,CVO-18858,truck,"Dallas, United States","Charlotte, United States",0.01112,"",2021-09-07 16:10:11 UTC,2021-09-07 16:10:11 UTC,1309,Convelio202109071809220200
+476,CVO-18856,truck,"New York, United States","Nashville, United States",0.01112,"",2021-09-07 16:10:12 UTC,2021-09-07 16:10:12 UTC,1070,Convelio202109071809220200
+477,CVO-18510,truck,"40.0606/-74.8503, United States","San Diego, United States",0.01112,"",2021-09-07 16:10:13 UTC,2021-09-07 16:10:13 UTC,10971,Convelio202109071809220200
+478,CVO-18698,truck,"National City, United States","Milwaukee, United States",0.01112,"",2021-09-07 16:10:14 UTC,2021-09-07 16:10:14 UTC,2446,Convelio202109071809220200
+479,CVO-18163,truck,"High Point, United States","New York, United States",0.01112,"",2021-09-07 16:10:15 UTC,2021-09-07 16:10:15 UTC,651,Convelio202109071809220200
+480,CVO-19960,truck,"West New York, United States","University Place, United States",0.01112,"",2021-09-07 16:10:16 UTC,2021-09-07 16:10:16 UTC,3403,Convelio202109071809220200
+481,CVO-19534,truck,"Los Angeles, United States","New Canaan, United States",0.01112,"",2021-09-07 16:10:16 UTC,2021-09-07 16:10:16 UTC,3484,Convelio202109071809220200
+482,CVO-24970,truck,"New York, United States","New York, United States",0.01112,"",2021-09-07 16:10:17 UTC,2021-09-07 16:10:17 UTC,0,Convelio202109071809220200
+483,CVO-22855,truck,"Newark, United States","Oakland, United States",0.01112,"",2021-09-07 16:10:18 UTC,2021-09-07 16:10:18 UTC,3594,Convelio202109071809220200
+484,CVO-22851,truck,"New York, United States","Shaker Heights, United States",0.01112,"",2021-09-07 16:10:19 UTC,2021-09-07 16:10:19 UTC,558,Convelio202109071809220200
+485,CVO-26011,truck,"Commack, United States","Bedford Corners, United States",0.01112,"",2021-09-07 16:10:21 UTC,2021-09-07 16:10:21 UTC,44,Convelio202109071809220200
+486,CVO-26280,truck,"Los Angeles, United States","Maspeth, United States",0.01112,"",2021-09-07 16:10:21 UTC,2021-09-07 16:10:21 UTC,3457,Convelio202109071809220200
+487,CVO-22384,truck,"Miami, United States","Miami, United States",0.01112,"",2021-09-07 16:10:22 UTC,2021-09-07 16:10:22 UTC,0,Convelio202109071809220200
+488,CVO-22379,truck,"Newark, United States","Oakland, United States",0.01112,"",2021-09-07 16:10:23 UTC,2021-09-07 16:10:23 UTC,3594,Convelio202109071809220200
+489,CVO-32010,truck,"Washington, United States","West Hollywood, United States",0.01112,"",2021-09-07 16:10:24 UTC,2021-09-07 16:10:24 UTC,1342,Convelio202109071809220200
+490,CVO-25771,truck,"Newark, United States","Mountainside, United States",0.01112,"",2021-09-07 16:10:25 UTC,2021-09-07 16:10:25 UTC,15,Convelio202109071809220200
+491,CVO-30085,truck,"Santa Fe Springs, United States","Glen Allen, United States",0.01112,"",2021-09-07 16:10:26 UTC,2021-09-07 16:10:26 UTC,3202,Convelio202109071809220200
+492,CVO-23371,truck,"Greenwich, United States","Scottsdale, United States",0.01112,"",2021-09-07 16:10:27 UTC,2021-09-07 16:10:27 UTC,3034,Convelio202109071809220200
+493,CVO-34244,truck,"Malibu, United States","New york, United States",0.01112,"",2021-09-07 16:10:28 UTC,2021-09-07 16:10:28 UTC,3490,Convelio202109071809220200
+494,CVO-32118,truck,"Cypress, United States","Larchmont, United States",0.01112,"",2021-09-07 16:10:29 UTC,2021-09-07 16:10:29 UTC,3461,Convelio202109071809220200
+495,CVO-33341,truck,"New York, United States","Concord, United States",0.01112,"",2021-09-07 16:10:30 UTC,2021-09-07 16:10:30 UTC,302,Convelio202109071809220200
+496,CVO-32387,truck,"Newark, United States","New York, United States",0.01112,"",2021-09-07 16:10:31 UTC,2021-09-07 16:10:31 UTC,12,Convelio202109071809220200
+497,CVO-31677,truck,"Millersville, United States","Wilton, United States",0.01112,"",2021-09-07 16:10:32 UTC,2021-09-07 16:10:32 UTC,245,Convelio202109071809220200
+498,CVO-33260,truck,"Burr Ridge, United States","Houston, United States",0.01112,"",2021-09-07 16:10:32 UTC,2021-09-07 16:10:32 UTC,1307,Convelio202109071809220200
+499,CVO-16895,truck,"Irvine, United States","Palm Springs, United States",0.01112,"",2021-09-07 16:10:33 UTC,2021-09-07 16:10:33 UTC,105,Convelio202109071809220200
+500,CVO-17005,truck,"Los Angeles, United States","Los Angeles, United States",0.01112,"",2021-09-07 16:10:34 UTC,2021-09-07 16:10:34 UTC,0,Convelio202109071809220200
+501,CVO-16885,truck,"Morganton, United States","East Hampton, United States",0.01112,"",2021-09-07 16:10:35 UTC,2021-09-07 16:10:35 UTC,885,Convelio202109071809220200
+502,CVO-16685,truck,"Gardena, United States","Shaker Heights, United States",0.01112,"",2021-09-07 16:10:36 UTC,2021-09-07 16:10:36 UTC,2907,Convelio202109071809220200
+503,CVO-18511,truck,"Blauvelt, United States","Seattle, United States",0.01112,"",2021-09-07 16:10:37 UTC,2021-09-07 16:10:37 UTC,3375,Convelio202109071809220200
+504,CVO-18512,truck,"East Hampton, United States","Aiken, United States",0.01112,"",2021-09-07 16:10:38 UTC,2021-09-07 16:10:38 UTC,1031,Convelio202109071809220200
+505,CVO-18324,truck,"Miami, United States","Wellington, United States",0.01112,"",2021-09-07 16:10:38 UTC,2021-09-07 16:10:38 UTC,88,Convelio202109071809220200
+506,CVO-18419,truck,"National City, United States","Pittsburgh, United States",0.01112,"",2021-09-07 16:10:39 UTC,2021-09-07 16:10:39 UTC,2978,Convelio202109071809220200
+507,CVO-20283,truck,"Newark, United States","Miami, United States",0.01112,"",2021-09-07 16:10:40 UTC,2021-09-07 16:10:40 UTC,1538,Convelio202109071809220200
+508,CVO-20718,truck,"New York, United States","Baltimore, United States",0.01112,"",2021-09-07 16:10:41 UTC,2021-09-07 16:10:41 UTC,239,Convelio202109071809220200
+509,CVO-20719,truck,"Cary, United States","Little Elm, United States",0.01112,"",2021-09-07 16:10:42 UTC,2021-09-07 16:10:42 UTC,1479,Convelio202109071809220200
+510,CVO-21143,truck,"Fort Worth, United States","Tacoma, United States",0.01112,"",2021-09-07 16:10:42 UTC,2021-09-07 16:10:42 UTC,2330,Convelio202109071809220200
+511,CVO-29685,truck,"Newark, United States","New York, United States",0.01112,"",2021-09-07 16:10:43 UTC,2021-09-07 16:10:43 UTC,12,Convelio202109071809220200
+512,CVO-22854,truck,"Los Angeles, United States","New Hyde Park, United States",0.01112,"",2021-09-07 16:10:44 UTC,2021-09-07 16:10:44 UTC,3473,Convelio202109071809220200
+513,CVO-22375,truck,"Los Angeles, United States","Los Angeles, United States",0.01112,"",2021-09-07 16:10:45 UTC,2021-09-07 16:10:45 UTC,0,Convelio202109071809220200
+514,CVO-26285,truck,"Millersville, United States","Maspeth, United States",0.01112,"",2021-09-07 16:10:46 UTC,2021-09-07 16:10:46 UTC,195,Convelio202109071809220200
+515,CVO-26273,truck,"Millersville, United States","Maspeth, United States",0.01112,"",2021-09-07 16:10:47 UTC,2021-09-07 16:10:47 UTC,195,Convelio202109071809220200
+516,CVO-26567,truck,"Newark, United States","New York, United States",0.01112,"",2021-09-07 16:10:47 UTC,2021-09-07 16:10:47 UTC,12,Convelio202109071809220200
+517,CVO-27980,truck,"Sarasota, United States","Santa Barbara, United States",0.01112,"",2021-09-07 16:10:48 UTC,2021-09-07 16:10:48 UTC,3166,Convelio202109071809220200
+518,CVO-28043,truck,"National City, United States","Newark, United States",0.01112,"",2021-09-07 16:10:49 UTC,2021-09-07 16:10:49 UTC,3409,Convelio202109071809220200
+519,CVO-33165,truck,"Los Angeles, United States","Las Vegas, United States",0.01112,"",2021-09-07 16:10:50 UTC,2021-09-07 16:10:50 UTC,322,Convelio202109071809220200
+520,CVO-32659,truck,"Newark, United States","Tallahassee, United States",0.01112,"",2021-09-07 16:10:51 UTC,2021-09-07 16:10:51 UTC,1282,Convelio202109071809220200
+521,CVO-34247,truck,"New York, United States","Atlanta, United States",0.01112,"",2021-09-07 16:10:52 UTC,2021-09-07 16:10:52 UTC,1052,Convelio202109071809220200
+522,CVO-28789,truck,"Stevensville, United States","Washington DC, United States",0.01112,"",2021-09-07 16:10:52 UTC,2021-09-07 16:10:52 UTC,765,Convelio202109071809220200
+523,CVO-16005,truck,"Laguna Hills, United States","East Hampton, United States",0.01112,"",2021-09-07 16:10:53 UTC,2021-09-07 16:10:53 UTC,3560,Convelio202109071809220200
+524,CVO-16773,truck,"New York, United States","San Francisco, United States",0.01112,"",2021-09-07 16:10:54 UTC,2021-09-07 16:10:54 UTC,3619,Convelio202109071809220200
+525,CVO-16684,truck,"Oakland, United States","Kansas City, United States",0.01112,"",2021-09-07 16:10:55 UTC,2021-09-07 16:10:55 UTC,2109,Convelio202109071809220200
+526,CVO-16433,truck,"Bristol, United States","Big Sky, United States",0.01112,"",2021-09-07 16:10:56 UTC,2021-09-07 16:10:56 UTC,2289,Convelio202109071809220200
+527,CVO-14676,truck,"Gardena, United States","New York, United States",0.01112,"",2021-09-07 16:10:57 UTC,2021-09-07 16:10:57 UTC,3460,Convelio202109071809220200
+528,CVO-15334,truck,"Los Angeles, United States","Woodbury, United States",0.01112,"",2021-09-07 16:10:58 UTC,2021-09-07 16:10:58 UTC,2164,Convelio202109071809220200
+529,CVO-15463,truck,"Santa Barbara, United States","New York, United States",0.01112,"",2021-09-07 16:10:59 UTC,2021-09-07 16:10:59 UTC,3542,Convelio202109071809220200
+530,CVO-20284,truck,"Darien, United States","Kansas City, United States",0.01112,"",2021-09-07 16:10:59 UTC,2021-09-07 16:10:59 UTC,1581,Convelio202109071809220200
+531,CVO-18164,truck,"New York, United States","Virginia Beach, United States",0.01112,"",2021-09-07 16:11:00 UTC,2021-09-07 16:11:00 UTC,405,Convelio202109071809220200
+532,CVO-20721,truck,"Newark, United States","Jupiter, United States",0.01112,"",2021-09-07 16:11:01 UTC,2021-09-07 16:11:01 UTC,1427,Convelio202109071809220200
+533,CVO-18857,truck,"Batavia, United States","Mercer Island, United States",0.01112,"",2021-09-07 16:11:02 UTC,2021-09-07 16:11:02 UTC,3010,Convelio202109071809220200
+534,CVO-19610,truck,"New York, United States","Helena, United States",0.01112,"",2021-09-07 16:11:03 UTC,2021-09-07 16:11:03 UTC,2714,Convelio202109071809220200
+535,CVO-26290,truck,"West Palm Beach, United States","Maspeth, United States",0.01112,"",2021-09-07 16:11:05 UTC,2021-09-07 16:11:05 UTC,1453,Convelio202109071809220200
+536,CVO-26287,truck,"Millersville, United States","Maspeth, United States",0.01112,"",2021-09-07 16:11:06 UTC,2021-09-07 16:11:06 UTC,195,Convelio202109071809220200
+537,CVO-22209,truck,"40.8451/-73.8661, United States","New York, United States",0.01112,"",2021-09-07 16:11:08 UTC,2021-09-07 16:11:08 UTC,7596,Convelio202109071809220200
+538,CVO-24564,truck,"Burr Ridge, United States","San Francisco, United States",0.01112,"",2021-09-07 16:11:09 UTC,2021-09-07 16:11:09 UTC,2595,Convelio202109071809220200
+539,CVO-29042,truck,"Los Angeles, United States","Brookline, United States",0.01112,"",2021-09-07 16:11:10 UTC,2021-09-07 16:11:10 UTC,3649,Convelio202109071809220200
+540,CVO-28436,truck,"Washington, United States","New London, United States",0.01112,"",2021-09-07 16:11:11 UTC,2021-09-07 16:11:11 UTC,3377,Convelio202109071809220200
+541,CVO-25763,truck,"National City, United States","Miami Beach, United States",0.01112,"",2021-09-07 16:11:12 UTC,2021-09-07 16:11:12 UTC,3198,Convelio202109071809220200
+542,CVO-31862,truck,"New York, United States","San Diego, United States",0.01112,"",2021-09-07 16:11:12 UTC,2021-09-07 16:11:12 UTC,3424,Convelio202109071809220200
+543,CVO-26301,truck,"National City, United States","Boston, United States",0.01112,"",2021-09-07 16:11:14 UTC,2021-09-07 16:11:14 UTC,3635,Convelio202109071809220200
+544,CVO-27939,truck,"Hallandale Beach, United States","Newark, United States",0.01112,"",2021-09-07 16:11:16 UTC,2021-09-07 16:11:16 UTC,1517,Convelio202109071809220200
+545,CVO-27036,truck,"Boca Raton, United States","New York, United States",0.01112,"",2021-09-07 16:11:17 UTC,2021-09-07 16:11:17 UTC,1482,Convelio202109071809220200
+546,CVO-26294,truck,"Montclair, United States","Maspeth, United States",0.01112,"",2021-09-07 16:11:18 UTC,2021-09-07 16:11:18 UTC,25,Convelio202109071809220200
+547,CVO-32129,truck,"Los Angeles, United States","West Palm Beach, United States",0.01112,"",2021-09-07 16:11:19 UTC,2021-09-07 16:11:19 UTC,3269,Convelio202109071809220200
+548,CVO-25240,truck,"New York, United States","Little Rock, United States",0.01112,"",2021-09-07 16:11:19 UTC,2021-09-07 16:11:19 UTC,1521,Convelio202109071809220200
+549,CVO-28053,truck,"Wainscott, United States","Buffalo, United States",0.01112,"",2021-09-07 16:11:20 UTC,2021-09-07 16:11:20 UTC,517,Convelio202109071809220200
+550,CVO-32130,truck,"Morganton, United States","West Palm Beach, United States",0.01112,"",2021-09-07 16:11:21 UTC,2021-09-07 16:11:21 UTC,890,Convelio202109071809220200
+551,CVO-31676,truck,"New York, United States","Stamford, United States",0.01112,"",2021-09-07 16:11:22 UTC,2021-09-07 16:11:22 UTC,48,Convelio202109071809220200
+552,CVO-33166,truck,"Englewood, United States","Brooklyn, United States",0.01112,"",2021-09-07 16:11:23 UTC,2021-09-07 16:11:23 UTC,2302,Convelio202109071809220200
+553,CVO-28440,truck,"Kearny, United States","Kansas City, United States",0.01112,"",2021-09-07 16:11:24 UTC,2021-09-07 16:11:24 UTC,1532,Convelio202109071809220200
+554,CVO-33869,truck,"Millersville, United States","Santa Monica, United States",0.01112,"",2021-09-07 16:11:25 UTC,2021-09-07 16:11:25 UTC,3299,Convelio202109071809220200
+555,CVO-29900,truck,"Clearwater Beach, United States","25.8890/-80.1241, United States",0.01112,"",2021-09-07 16:11:27 UTC,2021-09-07 16:11:27 UTC,8153,Convelio202109071809220200
+556,CVO-14678,truck,"Hauppauge, United States","Maplewood, United States",0.01112,"",2021-09-07 16:11:28 UTC,2021-09-07 16:11:28 UTC,80,Convelio202109071809220200
+557,CVO-20723,truck,"Newark, United States","Irvington, United States",0.01112,"",2021-09-07 16:11:29 UTC,2021-09-07 16:11:29 UTC,4,Convelio202109071809220200
+558,CVO-18166,truck,"Grand Rapids, United States","Ponte Vedra Beach, United States",0.01112,"",2021-09-07 16:11:30 UTC,2021-09-07 16:11:30 UTC,1284,Convelio202109071809220200
+559,CVO-19611,truck,"Hauppauge, United States","Seattle, United States",0.01112,"",2021-09-07 16:11:31 UTC,2021-09-07 16:11:31 UTC,3435,Convelio202109071809220200
+560,CVO-19156,truck,"Portsmouth, United States","Rancho Mirage, United States",0.01112,"",2021-09-07 16:11:32 UTC,2021-09-07 16:11:32 UTC,3556,Convelio202109071809220200
+561,CVO-21021,truck,"Hallandale Beach, United States","Los Angeles, United States",0.01112,"",2021-09-07 16:11:33 UTC,2021-09-07 16:11:33 UTC,3290,Convelio202109071809220200
+562,CVO-22383,truck,"Millersville, United States","Memphis, United States",0.01112,"",2021-09-07 16:11:34 UTC,2021-09-07 16:11:34 UTC,1157,Convelio202109071809220200
+563,CVO-24263,truck,"New York, United States","Exeter, United States",0.01112,"",2021-09-07 16:11:35 UTC,2021-09-07 16:11:35 UTC,313,Convelio202109071809220200
+564,CVO-30176,truck,"Newark, United States","Jupiter, United States",0.01112,"",2021-09-07 16:11:36 UTC,2021-09-07 16:11:36 UTC,1427,Convelio202109071809220200
+565,CVO-28787,truck,"Santa Fe Springs, United States","Atlanta, United States",0.01112,"",2021-09-07 16:11:37 UTC,2021-09-07 16:11:37 UTC,2715,Convelio202109071809220200
+566,CVO-32020,truck,"Laguna Hills, United States","New Canaan, United States",0.01112,"",2021-09-07 16:11:38 UTC,2021-09-07 16:11:38 UTC,3463,Convelio202109071809220200
+567,CVO-23372,truck,"New York, United States","Boulder, United States",0.01112,"",2021-09-07 16:11:39 UTC,2021-09-07 16:11:39 UTC,2310,Convelio202109071809220200
+568,CVO-26289,truck,"New York, United States","Maspeth, United States",0.01112,"",2021-09-07 16:11:40 UTC,2021-09-07 16:11:40 UTC,8,Convelio202109071809220200
+569,CVO-30626,truck,"Chicago, United States","New York, United States",0.01112,"",2021-09-07 16:11:41 UTC,2021-09-07 16:11:41 UTC,1003,Convelio202109071809220200
+570,CVO-29019,truck,"Santa Fe Springs, United States","Vero Beach, United States",0.01112,"",2021-09-07 16:11:42 UTC,2021-09-07 16:11:42 UTC,3196,Convelio202109071809220200
+571,CVO-35283,truck,"Newark, United States","Atlanta, United States",0.01112,"",2021-09-07 16:11:43 UTC,2021-09-07 16:11:43 UTC,1044,Convelio202109071809220200
+572,CVO-24364,truck,"Burr Ridge, United States","West Palm Beach, United States",0.01112,"",2021-09-07 16:11:44 UTC,2021-09-07 16:11:44 UTC,1594,Convelio202109071809220200
+573,CVO-33465,truck,"Greenwich, United States","Newark, United States",0.01112,"",2021-09-07 16:11:45 UTC,2021-09-07 16:11:45 UTC,49,Convelio202109071809220200
+574,CVO-32017,truck,"Millersville, United States","Gladwyne, United States",0.01112,"",2021-09-07 16:11:46 UTC,2021-09-07 16:11:46 UTC,81,Convelio202109071809220200
+575,CVO-31307,truck,"Chicago, United States","Bal Harbour, United States",0.01112,"",2021-09-07 16:11:47 UTC,2021-09-07 16:11:47 UTC,1670,Convelio202109071809220200
+576,CVO-33167,truck,"New York, United States","40.7967/-74.4822, United States",0.01112,"",2021-09-07 16:11:50 UTC,2021-09-07 16:11:50 UTC,7596,Convelio202109071809220200
+577,CVO-32965,truck,"Willowbrook, United States","Washington DC, United States",0.01112,"",2021-09-07 16:11:51 UTC,2021-09-07 16:11:51 UTC,1720,Convelio202109071809220200
+578,CVO-32656,truck,"New york, United States","Delray Beach, United States",0.01112,"",2021-09-07 16:11:51 UTC,2021-09-07 16:11:51 UTC,1473,Convelio202109071809220200
+579,CVO-16886,truck,"New York, United States","New York, United States",0.01112,"",2021-09-07 16:11:52 UTC,2021-09-07 16:11:52 UTC,0,Convelio202109071809220200
+580,CVO-14807,truck,"Falmouth, United States","Howey-in-the-Hills, United States",0.01112,"",2021-09-07 16:11:53 UTC,2021-09-07 16:11:53 UTC,1532,Convelio202109071809220200
+581,CVO-19681,truck,"Mount Vernon, United States","Seattle, United States",0.01112,"",2021-09-07 16:11:54 UTC,2021-09-07 16:11:54 UTC,3281,Convelio202109071809220200
+582,CVO-15489,truck,"Elk Grove Village, United States","Boca Raton, United States",0.01112,"",2021-09-07 16:11:56 UTC,2021-09-07 16:11:56 UTC,1648,Convelio202109071809220200
+583,CVO-20720,truck,"Chicago, United States","East Stroudsburg, United States",0.01112,"",2021-09-07 16:11:57 UTC,2021-09-07 16:11:57 UTC,912,Convelio202109071809220200
+584,CVO-18423,truck,"Riverside, United States","Katonah, United States",0.01112,"",2021-09-07 16:11:59 UTC,2021-09-07 16:11:59 UTC,3409,Convelio202109071809220200
+585,CVO-19154,truck,"Santa Fe Springs, United States","New York, United States",0.01112,"",2021-09-07 16:12:00 UTC,2021-09-07 16:12:00 UTC,3442,Convelio202109071809220200
+586,CVO-26275,truck,"New York, United States","Maspeth, United States",0.01112,"",2021-09-07 16:12:01 UTC,2021-09-07 16:12:01 UTC,8,Convelio202109071809220200
+587,CVO-30076,truck,"Dallas, United States","New York, United States",0.01112,"",2021-09-07 16:12:02 UTC,2021-09-07 16:12:02 UTC,1933,Convelio202109071809220200
+588,CVO-27981,truck,"40.8451/-73.8661, United States","Metairie, United States",0.01112,"",2021-09-07 16:12:04 UTC,2021-09-07 16:12:04 UTC,8783,Convelio202109071809220200
+589,CVO-22853,truck,"Burlington, United States","San Anselmo, United States",0.01112,"",2021-09-07 16:12:05 UTC,2021-09-07 16:12:05 UTC,3616,Convelio202109071809220200
+590,CVO-29023,truck,"National City, United States","New York, United States",0.01112,"",2021-09-07 16:12:05 UTC,2021-09-07 16:12:05 UTC,3421,Convelio202109071809220200
+591,CVO-27292,truck,"New York, United States","New York, United States",0.01112,"",2021-09-07 16:12:06 UTC,2021-09-07 16:12:06 UTC,0,Convelio202109071809220200
+592,CVO-26298,truck,"New York, United States","Maspeth, United States",0.01112,"",2021-09-07 16:12:07 UTC,2021-09-07 16:12:07 UTC,8,Convelio202109071809220200
+643,CVO-33638,truck,"Paris, France","Châteauroux, France",0.001,"",2021-09-07 16:12:59 UTC,2021-09-07 16:12:59 UTC,18,Convelio202109071809220200
+593,CVO-30911,truck,"New York, United States","Palm Beach, United States",0.01112,"",2021-09-07 16:12:08 UTC,2021-09-07 16:12:08 UTC,1449,Convelio202109071809220200
+594,CVO-35713,truck,"Washington, United States","New York, United States",0.01112,"",2021-09-07 16:12:09 UTC,2021-09-07 16:12:09 UTC,3283,Convelio202109071809220200
+595,CVO-38138,truck,"New York, United States","New York, United States",0.01112,"",2021-09-07 16:12:10 UTC,2021-09-07 16:12:10 UTC,0,Convelio202109071809220200
+596,CVO-35556,truck,"National City, United States","Pound Ridge, United States",0.01112,"",2021-09-07 16:12:11 UTC,2021-09-07 16:12:11 UTC,3452,Convelio202109071809220200
+597,CVO-37853,truck,"New York, United States","Jersey City, United States",0.01112,"",2021-09-07 16:12:12 UTC,2021-09-07 16:12:12 UTC,3,Convelio202109071809220200
+598,CVO-34519,truck,"New York, United States","Greenwich, United States",0.01112,"",2021-09-07 16:12:13 UTC,2021-09-07 16:12:13 UTC,41,Convelio202109071809220200
+599,CVO-35555,truck,"New York, United States","Fairfield, United States",0.01112,"",2021-09-07 16:12:14 UTC,2021-09-07 16:12:14 UTC,69,Convelio202109071809220200
+600,CVO-35554,truck,"New York, United States","Fairfield, United States",0.01112,"",2021-09-07 16:12:15 UTC,2021-09-07 16:12:15 UTC,69,Convelio202109071809220200
+601,CVO-36900,truck,"New York, United States","Brooklyn, United States",0.01112,"",2021-09-07 16:12:16 UTC,2021-09-07 16:12:16 UTC,5,Convelio202109071809220200
+602,CVO-8882,truck,"Paris, France","Brussel, Belgium",0.01112,"",2021-09-07 16:12:17 UTC,2021-09-07 16:12:17 UTC,231,Convelio202109071809220200
+603,CVO-18379,truck,"Gennevilliers, France","Bruxelles, Belgium",0.01112,"",2021-09-07 16:12:18 UTC,2021-09-07 16:12:18 UTC,228,Convelio202109071809220200
+604,CVO-32721,truck,"Paris, France","Amsterdam, Netherlands",0.01112,"",2021-09-07 16:12:20 UTC,2021-09-07 16:12:20 UTC,377,Convelio202109071809220200
+605,CVO-29687,truck,"Gennevilliers, France","Sant Boi de Llobregat, Spain",0.01112,"",2021-09-07 16:12:21 UTC,2021-09-07 16:12:21 UTC,739,Convelio202109071809220200
+606,CVO-3335,truck,"Pantin, France","Gennevilliers, France",0.01112,"",2021-09-07 16:12:22 UTC,2021-09-07 16:12:22 UTC,8,Convelio202109071809220200
+607,CVO-28496,truck,"Sant Boi de Llobregat, Spain","Paris, France",0.01112,"",2021-09-07 16:12:23 UTC,2021-09-07 16:12:23 UTC,732,Convelio202109071809220200
+608,CVO-17358,truck,"Bruxelles, Belgium","Paris, France",0.01112,"",2021-09-07 16:12:24 UTC,2021-09-07 16:12:24 UTC,231,Convelio202109071809220200
+609,CVO-8506,truck,"Gennevilliers, France","Ukkel, Belgium",0.01112,"",2021-09-07 16:12:25 UTC,2021-09-07 16:12:25 UTC,223,Convelio202109071809220200
+610,CVO-7882,truck,"Paris, France","Gennevilliers, France",0.01112,"",2021-09-07 16:12:26 UTC,2021-09-07 16:12:26 UTC,8,Convelio202109071809220200
+611,CVO-6094,truck,"Gennevilliers, France","Brussel, Belgium",0.01112,"",2021-09-07 16:12:27 UTC,2021-09-07 16:12:27 UTC,228,Convelio202109071809220200
+612,CVO-33908,truck,"Paris, France","Milano, Italy",0.01112,"",2021-09-07 16:12:28 UTC,2021-09-07 16:12:28 UTC,560,Convelio202109071809220200
+613,CVO-26738,truck,"Paris, France","Anglet, France",0.01112,"",2021-09-07 16:12:30 UTC,2021-09-07 16:12:30 UTC,585,Convelio202109071809220200
+614,CVO-19144,truck,"Paris, France","Gerrards Cross, United Kingdom",0.01112,"",2021-09-07 16:12:31 UTC,2021-09-07 16:12:31 UTC,321,Convelio202109071809220200
+615,CVO-18070,truck,"Gennevilliers, France","Saint-Tropez, France",0.01112,"",2021-09-07 16:12:32 UTC,2021-09-07 16:12:32 UTC,624,Convelio202109071809220200
+616,CVO-11984,truck,"Lyon, France","Paris, France",0.01112,"",2021-09-07 16:12:33 UTC,2021-09-07 16:12:33 UTC,343,Convelio202109071809220200
+617,CVO-24490,truck,"Paris, France","Montélier, France",0.01112,"",2021-09-07 16:12:33 UTC,2021-09-07 16:12:33 UTC,421,Convelio202109071809220200
+618,CVO-24612,truck,"Paris, France","Antwerpen, Belgium",0.01112,"",2021-09-07 16:12:35 UTC,2021-09-07 16:12:35 UTC,264,Convelio202109071809220200
+619,CVO-16604,truck,"Paris, France","Paris, France",0.01112,"",2021-09-07 16:12:35 UTC,2021-09-07 16:12:35 UTC,0,Convelio202109071809220200
+620,CVO-16350,truck,"Paris, France","Bruxelles, Belgium",0.01112,"",2021-09-07 16:12:36 UTC,2021-09-07 16:12:36 UTC,231,Convelio202109071809220200
+621,CVO-10282,truck,"Gennevilliers, France","Brugge, Belgium",0.01112,"",2021-09-07 16:12:37 UTC,2021-09-07 16:12:37 UTC,230,Convelio202109071809220200
+622,CVO-10555,truck,"Gennevilliers, France","London, United Kingdom",0.01112,"",2021-09-07 16:12:38 UTC,2021-09-07 16:12:38 UTC,293,Convelio202109071809220200
+623,CVO-20820,truck,"Gennevilliers, France","Monaco, Monaco",0.01112,"",2021-09-07 16:12:39 UTC,2021-09-07 16:12:39 UTC,612,Convelio202109071809220200
+624,CVO-17919,truck,"Paris, France","Paris, France",0.01112,"",2021-09-07 16:12:40 UTC,2021-09-07 16:12:40 UTC,0,Convelio202109071809220200
+625,CVO-16901,truck,"Gennevilliers, France","Valsemé, France",0.01112,"",2021-09-07 16:12:42 UTC,2021-09-07 16:12:42 UTC,143,Convelio202109071809220200
+626,CVO-9132,truck,"Gennevilliers, France","Kapellen, Belgium",0.01112,"",2021-09-07 16:12:43 UTC,2021-09-07 16:12:43 UTC,269,Convelio202109071809220200
+627,CVO-14217,truck,"Paris, France","Brussel, Belgium",0.01112,"",2021-09-07 16:12:43 UTC,2021-09-07 16:12:43 UTC,231,Convelio202109071809220200
+628,CVO-27439,truck,"Gennevilliers, France","Paris, France",0.01112,"",2021-09-07 16:12:44 UTC,2021-09-07 16:12:44 UTC,8,Convelio202109071809220200
+629,CVO-27483,truck,"Gennevilliers, France","Château-Landon, France",0.01112,"",2021-09-07 16:12:45 UTC,2021-09-07 16:12:45 UTC,80,Convelio202109071809220200
+630,CVO-8504,truck,"Paris, France","Gent, Belgium",0.01112,"",2021-09-07 16:12:46 UTC,2021-09-07 16:12:46 UTC,230,Convelio202109071809220200
+631,CVO-16031,truck,"Paris, France","Gennevilliers, France",0.01112,"",2021-09-07 16:12:47 UTC,2021-09-07 16:12:47 UTC,8,Convelio202109071809220200
+632,CVO-18312,truck,"Gennevilliers, France","Paris, France",0.01112,"",2021-09-07 16:12:48 UTC,2021-09-07 16:12:48 UTC,8,Convelio202109071809220200
+633,CVO-18971,truck,"Gennevilliers, France","Luxembourg, Luxembourg",0.01112,"",2021-09-07 16:12:49 UTC,2021-09-07 16:12:49 UTC,258,Convelio202109071809220200
+634,CVO-20144,air_freight,"Gennevilliers, France","Braine-le-Château, Belgium",0.01112,freighter,2021-09-07 16:12:50 UTC,2021-09-07 16:12:50 UTC,1937,Convelio202109071809220200
+635,CVO-11247,air_freight,"London, United Kingdom","Casablanca, Morocco",0.01112,freighter,2021-09-07 16:12:51 UTC,2021-09-07 16:12:51 UTC,13605,Convelio202109071809220200
+636,CVO-35067,air_freight,"Paris, France","Singapore, Singapore",0.001,freighter,2021-09-07 16:12:52 UTC,2021-09-07 16:12:52 UTC,5133,Convelio202109071809220200
+637,CVO-34040,truck,"Paris, France","Wollerau, Switzerland",0.001,"",2021-09-07 16:12:53 UTC,2021-09-07 16:12:53 UTC,40,Convelio202109071809220200
+638,CVO-34576,air_freight,"Paris, France","London, Canada",0.001,freighter,2021-09-07 16:12:54 UTC,2021-09-07 16:12:54 UTC,2924,Convelio202109071809220200
+639,CVO-34581,truck,"Paris, France","Zaventem, Belgium",0.001,"",2021-09-07 16:12:55 UTC,2021-09-07 16:12:55 UTC,21,Convelio202109071809220200
+640,CVO-33930,truck,"Paris, France","Firenze, Italy",0.001,"",2021-09-07 16:12:56 UTC,2021-09-07 16:12:56 UTC,70,Convelio202109071809220200
+641,CVO-25927,air_freight,"Gennevilliers, France","Yokohama, Japan",0.001,freighter,2021-09-07 16:12:57 UTC,2021-09-07 16:12:57 UTC,4660,Convelio202109071809220200
+642,CVO-25964,air_freight,"Gennevilliers, France","Ashfield, United States",0.001,freighter,2021-09-07 16:12:58 UTC,2021-09-07 16:12:58 UTC,2670,Convelio202109071809220200
+644,CVO-34670,air_freight,"Paris, France","Tainan City, Taiwan",0.001,freighter,2021-09-07 16:13:00 UTC,2021-09-07 16:13:00 UTC,4758,Convelio202109071809220200
+645,CVO-30119,truck,"Gennevilliers, France","London, United Kingdom",0.001,"",2021-09-07 16:13:01 UTC,2021-09-07 16:13:01 UTC,26,Convelio202109071809220200
+646,CVO-27222,air_freight,"Gennevilliers, France","Birmingham, United States",0.001,freighter,2021-09-07 16:13:02 UTC,2021-09-07 16:13:02 UTC,3446,Convelio202109071809220200
+647,CVO-19398,air_freight,"Paris, France","Hong Kong, Hong Kong",0.001,freighter,2021-09-07 16:13:03 UTC,2021-09-07 16:13:03 UTC,4611,Convelio202109071809220200
+648,CVO-33396,truck,"Paris, France","London, United Kingdom",0.001,"",2021-09-07 16:13:04 UTC,2021-09-07 16:13:04 UTC,27,Convelio202109071809220200
+649,CVO-36971,air_freight,"Paris, France","New York, United States",0.001,freighter,2021-09-07 16:13:05 UTC,2021-09-07 16:13:05 UTC,2764,Convelio202109071809220200
+650,CVO-35897,air_freight,"Paris, France","Houston, United States",0.001,freighter,2021-09-07 16:13:06 UTC,2021-09-07 16:13:06 UTC,3883,Convelio202109071809220200
+651,CVO-36220,truck,"Paris, France","Madrid, Spain",0.001,"",2021-09-07 16:13:06 UTC,2021-09-07 16:13:06 UTC,83,Convelio202109071809220200
+652,CVO-36861,air_freight,"Gennevilliers, France","Fort Lauderdale, United States",0.001,freighter,2021-09-07 16:13:07 UTC,2021-09-07 16:13:07 UTC,3500,Convelio202109071809220200
+653,CVO-26688,air_freight,"Gennevilliers, France","Chicago, United States",0.002,freighter,2021-09-07 16:13:08 UTC,2021-09-07 16:13:08 UTC,6322,Convelio202109071809220200
+654,CVO-25695,truck,"Gennevilliers, France","Amsterdam, Netherlands",0.002,"",2021-09-07 16:13:09 UTC,2021-09-07 16:13:09 UTC,67,Convelio202109071809220200
+655,CVO-34425,truck,"Paris, France","Lisboa, Portugal",0.002,"",2021-09-07 16:13:11 UTC,2021-09-07 16:13:11 UTC,229,Convelio202109071809220200
+656,CVO-33924,truck,"Gennevilliers, France","Rambrouch, Luxembourg",0.002,"",2021-09-07 16:13:12 UTC,2021-09-07 16:13:12 UTC,44,Convelio202109071809220200
+657,CVO-34143,truck,"Gennevilliers, France","Roma, Italy",0.002,"",2021-09-07 16:13:13 UTC,2021-09-07 16:13:13 UTC,176,Convelio202109071809220200
+658,CVO-33331,truck,"Paris, France","Coutances, France",0.002,"",2021-09-07 16:13:19 UTC,2021-09-07 16:13:19 UTC,44,Convelio202109071809220200
+659,CVO-28241,truck,"Gennevilliers, France","Liverpool, United Kingdom",0.002,"",2021-09-07 16:13:20 UTC,2021-09-07 16:13:20 UTC,98,Convelio202109071809220200
+660,CVO-13703,air_freight,"Paris, France","New York, United States",0.002,freighter,2021-09-07 16:13:21 UTC,2021-09-07 16:13:21 UTC,5527,Convelio202109071809220200
+661,CVO-27714,air_freight,"Gennevilliers, France","New York, United States",0.002,freighter,2021-09-07 16:13:22 UTC,2021-09-07 16:13:22 UTC,5521,Convelio202109071809220200
+662,CVO-25872,air_freight,"Gennevilliers, France","Houston, United States",0.002,freighter,2021-09-07 16:13:25 UTC,2021-09-07 16:13:25 UTC,7759,Convelio202109071809220200
+663,CVO-33636,truck,"Paris, France","Knokke-Heist, Belgium",0.002,"",2021-09-07 16:13:26 UTC,2021-09-07 16:13:26 UTC,45,Convelio202109071809220200
+664,CVO-34036,truck,"Paris, France","London, United Kingdom",0.002,"",2021-09-07 16:13:27 UTC,2021-09-07 16:13:27 UTC,54,Convelio202109071809220200
+665,CVO-19591,air_freight,"Paris, France","Hong Kong, Hong Kong",0.002,freighter,2021-09-07 16:13:28 UTC,2021-09-07 16:13:28 UTC,9222,Convelio202109071809220200
+666,CVO-27052,truck,"Gennevilliers, France","Woking, United Kingdom",0.002,"",2021-09-07 16:13:29 UTC,2021-09-07 16:13:29 UTC,53,Convelio202109071809220200
+667,CVO-26390,air_freight,"Gennevilliers, France","Shibuya, Japan",0.002,freighter,2021-09-07 16:13:30 UTC,2021-09-07 16:13:30 UTC,9303,Convelio202109071809220200
+668,CVO-32036,air_freight,"Paris, France","Musashino, Japan",0.002,freighter,2021-09-07 16:13:31 UTC,2021-09-07 16:13:31 UTC,9296,Convelio202109071809220200
+669,CVO-29611,truck,"Paris, France","London, United Kingdom",0.002,"",2021-09-07 16:13:32 UTC,2021-09-07 16:13:32 UTC,54,Convelio202109071809220200
+670,CVO-25951,air_freight,"Paris, France","Seoul, South Korea",0.002,freighter,2021-09-07 16:13:33 UTC,2021-09-07 16:13:33 UTC,8598,Convelio202109071809220200
+671,CVO-35174,air_freight,"Paris, France","Taipei City, Taiwan",0.002,freighter,2021-09-07 16:13:34 UTC,2021-09-07 16:13:34 UTC,9416,Convelio202109071809220200
+672,CVO-30778,air_freight,"Paris, France","Weston, United States",0.002,freighter,2021-09-07 16:13:36 UTC,2021-09-07 16:13:36 UTC,7028,Convelio202109071809220200
+673,CVO-25990,air_freight,"Gennevilliers, France","Kyoto, Japan",0.002,freighter,2021-09-07 16:13:36 UTC,2021-09-07 16:13:36 UTC,9207,Convelio202109071809220200
+674,CVO-34349,truck,"Paris, France","Wien, Austria",0.002,"",2021-09-07 16:13:38 UTC,2021-09-07 16:13:38 UTC,163,Convelio202109071809220200
+675,CVO-32913,truck,"Paris, France","De Pinte, Belgium",0.002,"",2021-09-07 16:13:39 UTC,2021-09-07 16:13:39 UTC,40,Convelio202109071809220200
+676,CVO-34354,truck,"Paris, France","Grünwald, Germany",0.002,"",2021-09-07 16:13:40 UTC,2021-09-07 16:13:40 UTC,108,Convelio202109071809220200
+677,CVO-24818,truck,"Paris, France","Antwerpen, Belgium",0.002,"",2021-09-07 16:13:41 UTC,2021-09-07 16:13:41 UTC,47,Convelio202109071809220200
+678,CVO-24812,air_freight,"Paris, France","Minneapolis, United States",0.002,freighter,2021-09-07 16:13:41 UTC,2021-09-07 16:13:41 UTC,6448,Convelio202109071809220200
+679,CVO-33368,truck,"Paris, France","Haltern am See, Germany",0.002,"",2021-09-07 16:13:42 UTC,2021-09-07 16:13:42 UTC,74,Convelio202109071809220200
+680,CVO-25897,air_freight,"Paris, France","Suita, Japan",0.002,freighter,2021-09-07 16:13:45 UTC,2021-09-07 16:13:45 UTC,9224,Convelio202109071809220200
+681,CVO-32248,air_freight,"Paris, France","Mount Pleasant, United States",0.002,freighter,2021-09-07 16:13:46 UTC,2021-09-07 16:13:46 UTC,6471,Convelio202109071809220200
+682,CVO-28420,truck,"Gennevilliers, France","München, Germany",0.002,"",2021-09-07 16:13:47 UTC,2021-09-07 16:13:47 UTC,109,Convelio202109071809220200
+683,CVO-28654,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.002,freighter,2021-09-07 16:13:48 UTC,2021-09-07 16:13:48 UTC,9222,Convelio202109071809220200
+684,CVO-29191,air_freight,"Paris, France","Hong Kong, Hong Kong",0.002,freighter,2021-09-07 16:13:49 UTC,2021-09-07 16:13:49 UTC,9222,Convelio202109071809220200
+685,CVO-25207,truck,"Paris, France","Roquebrune-Cap-Martin, France",0.002,"",2021-09-07 16:13:51 UTC,2021-09-07 16:13:51 UTC,109,Convelio202109071809220200
+686,CVO-26972,truck,"Gennevilliers, France","Grünwald, Germany",0.002,"",2021-09-07 16:13:52 UTC,2021-09-07 16:13:52 UTC,108,Convelio202109071809220200
+687,CVO-25497,air_freight,"Gennevilliers, France","New York, United States",0.002,freighter,2021-09-07 16:13:53 UTC,2021-09-07 16:13:53 UTC,5521,Convelio202109071809220200
+688,CVO-25275,air_freight,"Gennevilliers, France","Seki, Japan",0.002,freighter,2021-09-07 16:13:54 UTC,2021-09-07 16:13:54 UTC,9209,Convelio202109071809220200
+689,CVO-31157,truck,"Paris, France","Amsterdam, Netherlands",0.002,"",2021-09-07 16:13:56 UTC,2021-09-07 16:13:56 UTC,68,Convelio202109071809220200
+690,CVO-24901,air_freight,"Paris, France","Beverly Hills, United States",0.002,freighter,2021-09-07 16:13:57 UTC,2021-09-07 16:13:57 UTC,8717,Convelio202109071809220200
+691,CVO-34933,air_freight,"Paris, France","New Territories, Hong Kong",0.002,freighter,2021-09-07 16:13:58 UTC,2021-09-07 16:13:58 UTC,9216,Convelio202109071809220200
+692,CVO-36411,truck,"Paris, France","Köln, Germany",0.002,"",2021-09-07 16:14:00 UTC,2021-09-07 16:14:00 UTC,63,Convelio202109071809220200
+693,CVO-35056,air_freight,"Paris, France","Dighton, United States",0.002,freighter,2021-09-07 16:14:01 UTC,2021-09-07 16:14:01 UTC,5284,Convelio202109071809220200
+694,CVO-34923,air_freight,"Paris, France","Hong Kong, Hong Kong",0.002,freighter,2021-09-07 16:14:02 UTC,2021-09-07 16:14:02 UTC,9222,Convelio202109071809220200
+695,CVO-35297,air_freight,"Paris, France","Los Angeles, United States",0.002,freighter,2021-09-07 16:14:03 UTC,2021-09-07 16:14:03 UTC,8711,Convelio202109071809220200
+696,CVO-35309,air_freight,"Paris, France","Taipei City, Taiwan",0.002,freighter,2021-09-07 16:14:06 UTC,2021-09-07 16:14:06 UTC,9416,Convelio202109071809220200
+697,CVO-35778,air_freight,"Paris, France","San Jose, United States",0.002,freighter,2021-09-07 16:14:07 UTC,2021-09-07 16:14:07 UTC,8600,Convelio202109071809220200
+698,CVO-34941,air_freight,"Paris, France","Hong Kong, Hong Kong",0.002,freighter,2021-09-07 16:14:08 UTC,2021-09-07 16:14:08 UTC,9222,Convelio202109071809220200
+699,CVO-35059,air_freight,"Paris, France","Hong Kong, Hong Kong",0.002,freighter,2021-09-07 16:14:09 UTC,2021-09-07 16:14:09 UTC,9222,Convelio202109071809220200
+700,CVO-36308,air_freight,"Paris, France","Chai Wan, Hong Kong (香港)",0.002,freighter,2021-09-07 16:14:10 UTC,2021-09-07 16:14:10 UTC,9231,Convelio202109071809220200
+701,CVO-36980,air_freight,"Paris, France","Kowloon, Hong Kong (香港)",0.002,freighter,2021-09-07 16:14:11 UTC,2021-09-07 16:14:11 UTC,9222,Convelio202109071809220200
+702,CVO-36295,truck,"Paris, France","Stuttgart, Germany",0.002,"",2021-09-07 16:14:12 UTC,2021-09-07 16:14:12 UTC,79,Convelio202109071809220200
+703,CVO-27261,truck,"Gennevilliers, France","Bordeaux, France",0.003,"",2021-09-07 16:14:13 UTC,2021-09-07 16:14:13 UTC,119,Convelio202109071809220200
+704,CVO-25429,truck,"Gennevilliers, France","London, United Kingdom",0.003,"",2021-09-07 16:14:14 UTC,2021-09-07 16:14:14 UTC,79,Convelio202109071809220200
+705,CVO-34437,air_freight,"Paris, France","New Castle, United States",0.003,freighter,2021-09-07 16:14:15 UTC,2021-09-07 16:14:15 UTC,8547,Convelio202109071809220200
+706,CVO-19593,air_freight,"Paris, France","Tainan, Taiwan (台灣)",0.003,freighter,2021-09-07 16:14:17 UTC,2021-09-07 16:14:17 UTC,14274,Convelio202109071809220200
+707,CVO-15325,truck,"Paris, France","'t Goy, Netherlands",0.003,"",2021-09-07 16:14:17 UTC,2021-09-07 16:14:17 UTC,96,Convelio202109071809220200
+708,CVO-27436,air_freight,"Gennevilliers, France","New York, United States",0.003,freighter,2021-09-07 16:14:18 UTC,2021-09-07 16:14:18 UTC,8281,Convelio202109071809220200
+709,CVO-26862,truck,"Gennevilliers, France","London, United Kingdom",0.003,"",2021-09-07 16:14:19 UTC,2021-09-07 16:14:19 UTC,79,Convelio202109071809220200
+710,CVO-34090,air_freight,"Gennevilliers, France","SHIH LIN, Taiwan (台灣)",0.003,freighter,2021-09-07 16:14:20 UTC,2021-09-07 16:14:20 UTC,14111,Convelio202109071809220200
+711,CVO-33640,truck,"Paris, France","Vercelli, Italy",0.003,"",2021-09-07 16:14:21 UTC,2021-09-07 16:14:21 UTC,143,Convelio202109071809220200
+712,CVO-26099,truck,"Gennevilliers, France","Berlin, Germany",0.003,"",2021-09-07 16:14:22 UTC,2021-09-07 16:14:22 UTC,207,Convelio202109071809220200
+713,CVO-19589,air_freight,"Paris, France","Tainan City, Taiwan",0.003,freighter,2021-09-07 16:14:23 UTC,2021-09-07 16:14:23 UTC,14274,Convelio202109071809220200
+714,CVO-32522,truck,"Paris, France","Zwevegem, Belgium",0.003,"",2021-09-07 16:14:24 UTC,2021-09-07 16:14:24 UTC,54,Convelio202109071809220200
+715,CVO-32572,truck,"Paris, France","Senlis, France",0.003,"",2021-09-07 16:14:25 UTC,2021-09-07 16:14:25 UTC,10,Convelio202109071809220200
+716,CVO-25394,truck,"Gennevilliers, France","Zürich, Switzerland",0.003,"",2021-09-07 16:14:26 UTC,2021-09-07 16:14:26 UTC,117,Convelio202109071809220200
+717,CVO-27065,truck,"Gennevilliers, France","County Meath, Ireland",0.003,"",2021-09-07 16:14:27 UTC,2021-09-07 16:14:27 UTC,192,Convelio202109071809220200
+718,CVO-29616,air_freight,"Gennevilliers, France","Los Angeles, United States",0.003,freighter,2021-09-07 16:14:28 UTC,2021-09-07 16:14:28 UTC,13054,Convelio202109071809220200
+719,CVO-24937,truck,"Paris, France","Gasteiz, Spain",0.003,"",2021-09-07 16:14:29 UTC,2021-09-07 16:14:29 UTC,183,Convelio202109071809220200
+720,CVO-26130,air_freight,"Paris, France","Hong Kong, Hong Kong",0.003,freighter,2021-09-07 16:14:30 UTC,2021-09-07 16:14:30 UTC,13833,Convelio202109071809220200
+721,CVO-27238,truck,"Gennevilliers, France","London, United Kingdom",0.003,"",2021-09-07 16:14:31 UTC,2021-09-07 16:14:31 UTC,79,Convelio202109071809220200
+722,CVO-29292,air_freight,"Gennevilliers, France","San Francisco, United States",0.003,freighter,2021-09-07 16:14:32 UTC,2021-09-07 16:14:32 UTC,12867,Convelio202109071809220200
+723,CVO-14076,air_freight,"Paris, France","Milano, Italy",0.003,freighter,2021-09-07 16:14:32 UTC,2021-09-07 16:14:32 UTC,1329,Convelio202109071809220200
+724,CVO-27356,air_freight,"Gennevilliers, France","Boston, United States",0.003,freighter,2021-09-07 16:14:34 UTC,2021-09-07 16:14:34 UTC,7863,Convelio202109071809220200
+725,CVO-28303,air_freight,"Gennevilliers, France","Los Angeles, United States",0.003,freighter,2021-09-07 16:14:35 UTC,2021-09-07 16:14:35 UTC,13054,Convelio202109071809220200
+726,CVO-24962,air_freight,"Gennevilliers, France","Washington, United States",0.003,freighter,2021-09-07 16:14:37 UTC,2021-09-07 16:14:37 UTC,11457,Convelio202109071809220200
+727,CVO-33622,air_freight,"Paris, France","New York, United States",0.003,freighter,2021-09-07 16:14:38 UTC,2021-09-07 16:14:38 UTC,8291,Convelio202109071809220200
+728,CVO-33429,truck,"Paris, France","Amsterdam, Netherlands",0.003,"",2021-09-07 16:14:39 UTC,2021-09-07 16:14:39 UTC,102,Convelio202109071809220200
+729,CVO-27713,truck,"Gennevilliers, France","London, United Kingdom",0.003,"",2021-09-07 16:14:40 UTC,2021-09-07 16:14:40 UTC,79,Convelio202109071809220200
+730,CVO-34586,truck,"Paris, France","Nîmes, France",0.003,"",2021-09-07 16:14:41 UTC,2021-09-07 16:14:41 UTC,137,Convelio202109071809220200
+731,CVO-20136,truck,"Paris, France","Stockholm, Sweden",0.003,"",2021-09-07 16:14:42 UTC,2021-09-07 16:14:42 UTC,365,Convelio202109071809220200
+732,CVO-37419,air_freight,"Gennevilliers, France","New York, United States",0.003,freighter,2021-09-07 16:14:43 UTC,2021-09-07 16:14:43 UTC,8281,Convelio202109071809220200
+733,CVO-36019,truck,"Paris, France","York, United Kingdom",0.003,"",2021-09-07 16:14:44 UTC,2021-09-07 16:14:44 UTC,146,Convelio202109071809220200
+734,CVO-37545,air_freight,"Paris, France","Aventura, United States",0.003,freighter,2021-09-07 16:14:46 UTC,2021-09-07 16:14:46 UTC,10530,Convelio202109071809220200
+735,CVO-36669,truck,"Gennevilliers, France","Monaco, Monaco",0.003,"",2021-09-07 16:14:47 UTC,2021-09-07 16:14:47 UTC,165,Convelio202109071809220200
+736,CVO-25388,air_freight,"Gennevilliers, France","New York, United States",0.004,freighter,2021-09-07 16:14:47 UTC,2021-09-07 16:14:47 UTC,11041,Convelio202109071809220200
+737,CVO-18067,air_freight,"Paris, France","Dallas, United States",0.004,freighter,2021-09-07 16:14:48 UTC,2021-09-07 16:14:48 UTC,15243,Convelio202109071809220200
+738,CVO-28916,air_freight,"Gennevilliers, France","Los Angeles, United States",0.004,freighter,2021-09-07 16:14:49 UTC,2021-09-07 16:14:49 UTC,17405,Convelio202109071809220200
+739,CVO-27918,air_freight,"Gennevilliers, France","Los Angeles, United States",0.004,freighter,2021-09-07 16:14:50 UTC,2021-09-07 16:14:50 UTC,17405,Convelio202109071809220200
+740,CVO-24684,air_freight,"Paris, France","Kerhonkson, United States",0.004,freighter,2021-09-07 16:14:51 UTC,2021-09-07 16:14:51 UTC,10963,Convelio202109071809220200
+741,CVO-18599,air_freight,"Paris, France","Littleton, United States",0.004,freighter,2021-09-07 16:14:52 UTC,2021-09-07 16:14:52 UTC,15128,Convelio202109071809220200
+742,CVO-32015,truck,"Paris, France","Pagny-sur-Moselle, France",0.004,"",2021-09-07 16:14:53 UTC,2021-09-07 16:14:53 UTC,85,Convelio202109071809220200
+743,CVO-31356,air_freight,"Gennevilliers, France","Golden Beach, United States",0.004,freighter,2021-09-07 16:14:54 UTC,2021-09-07 16:14:54 UTC,14026,Convelio202109071809220200
+744,CVO-34345,air_freight,"Paris, France","Hong Kong, Hong Kong",0.004,freighter,2021-09-07 16:14:55 UTC,2021-09-07 16:14:55 UTC,18445,Convelio202109071809220200
+745,CVO-31358,air_freight,"Gennevilliers, France","Marine on Saint Croix, United States",0.004,freighter,2021-09-07 16:14:56 UTC,2021-09-07 16:14:56 UTC,12790,Convelio202109071809220200
+746,CVO-14923,air_freight,"Paris, France","Hong Kong, Hong Kong",0.004,freighter,2021-09-07 16:14:57 UTC,2021-09-07 16:14:57 UTC,18445,Convelio202109071809220200
+747,CVO-25969,truck,"Gennevilliers, France","Lisboa, Portugal",0.004,"",2021-09-07 16:14:58 UTC,2021-09-07 16:14:58 UTC,459,Convelio202109071809220200
+748,CVO-27241,truck,"Soorts-Hossegor, France","Gent, Belgium",0.004,"",2021-09-07 16:15:00 UTC,2021-09-07 16:15:00 UTC,286,Convelio202109071809220200
+749,CVO-33178,air_freight,"Paris, France","Hong Kong, Hong Kong",0.004,freighter,2021-09-07 16:15:00 UTC,2021-09-07 16:15:00 UTC,18445,Convelio202109071809220200
+750,CVO-19528,air_freight,"Paris, France","Hong Kong, Hong Kong",0.004,freighter,2021-09-07 16:15:02 UTC,2021-09-07 16:15:02 UTC,18445,Convelio202109071809220200
+751,CVO-28912,air_freight,"Gennevilliers, France","Wauwatosa, United States",0.004,freighter,2021-09-07 16:15:03 UTC,2021-09-07 16:15:03 UTC,12523,Convelio202109071809220200
+752,CVO-27076,truck,"Gennevilliers, France","Compton, United Kingdom",0.004,"",2021-09-07 16:15:05 UTC,2021-09-07 16:15:05 UTC,121,Convelio202109071809220200
+753,CVO-14926,air_freight,"Paris, France","Mill Valley, United States",0.004,freighter,2021-09-07 16:15:06 UTC,2021-09-07 16:15:06 UTC,17160,Convelio202109071809220200
+754,CVO-17509,air_freight,"Paris, France","Prahran, Australia",0.004,freighter,2021-09-07 16:15:07 UTC,2021-09-07 16:15:07 UTC,32006,Convelio202109071809220200
+755,CVO-29858,truck,"Paris, France","Amsterdam, Netherlands",0.004,"",2021-09-07 16:15:07 UTC,2021-09-07 16:15:07 UTC,135,Convelio202109071809220200
+756,CVO-36074,truck,"Gennevilliers, France","Valencia, Spain",0.004,"",2021-09-07 16:15:08 UTC,2021-09-07 16:15:08 UTC,338,Convelio202109071809220200
+757,CVO-37367,truck,"Paris, France","Chorzow, Poland",0.004,"",2021-09-07 16:15:10 UTC,2021-09-07 16:15:10 UTC,380,Convelio202109071809220200
+758,CVO-37299,truck,"Gennevilliers, France","London, United Kingdom",0.004,"",2021-09-07 16:15:11 UTC,2021-09-07 16:15:11 UTC,106,Convelio202109071809220200
+759,CVO-36070,truck,"Paris, France","Perugia, Italy",0.004,"",2021-09-07 16:15:12 UTC,2021-09-07 16:15:12 UTC,316,Convelio202109071809220200
+760,CVO-36456,air_freight,"Gennevilliers, France","EAST HAMPTON, United States",0.004,freighter,2021-09-07 16:15:14 UTC,2021-09-07 16:15:14 UTC,10785,Convelio202109071809220200
+761,CVO-29497,air_freight,"Washington DC, United States","Udine, Italy",0.004545455,freighter,2021-09-07 16:15:15 UTC,2021-09-07 16:15:15 UTC,15263,Convelio202109071809220200
+762,CVO-24981,truck,"Paris, France","Hamburg, Germany",0.005,"",2021-09-07 16:15:16 UTC,2021-09-07 16:15:16 UTC,293,Convelio202109071809220200
+763,CVO-10067,air_freight,"Paris, France","MACAU, Macao",0.005,freighter,2021-09-07 16:15:17 UTC,2021-09-07 16:15:17 UTC,22987,Convelio202109071809220200
+764,CVO-29798,air_freight,"Paris, France","Mill Valley, United States",0.005,freighter,2021-09-07 16:15:18 UTC,2021-09-07 16:15:18 UTC,21449,Convelio202109071809220200
+765,CVO-33971,truck,"Gennevilliers, France","Cascais, Portugal",0.005,"",2021-09-07 16:15:19 UTC,2021-09-07 16:15:19 UTC,580,Convelio202109071809220200
+766,CVO-35179,air_freight,"Paris, France","Houston, United States",0.005,freighter,2021-09-07 16:15:20 UTC,2021-09-07 16:15:20 UTC,19413,Convelio202109071809220200
+767,CVO-16586,air_freight,"Gennevilliers, France","Chicago, United States",0.005,freighter,2021-09-07 16:15:21 UTC,2021-09-07 16:15:21 UTC,15806,Convelio202109071809220200
+768,CVO-29647,air_freight,"Paris, France","Ramsey, United States",0.005,freighter,2021-09-07 16:15:22 UTC,2021-09-07 16:15:22 UTC,13786,Convelio202109071809220200
+769,CVO-26725,truck,"Gennevilliers, France","Kleinmachnow, Germany",0.005,"",2021-09-07 16:15:23 UTC,2021-09-07 16:15:23 UTC,339,Convelio202109071809220200
+770,CVO-26726,truck,"Paris, France","Traun, Austria",0.005,"",2021-09-07 16:15:25 UTC,2021-09-07 16:15:25 UTC,346,Convelio202109071809220200
+771,CVO-29457,truck,"Paris, France","Bottmingen, Switzerland",0.005,"",2021-09-07 16:15:26 UTC,2021-09-07 16:15:26 UTC,163,Convelio202109071809220200
+772,CVO-34422,air_freight,"Paris, France","Wilmington, United States",0.005,freighter,2021-09-07 16:15:27 UTC,2021-09-07 16:15:27 UTC,14227,Convelio202109071809220200
+773,CVO-18371,air_freight,"Paris, France","Santa Monica, United States",0.005,freighter,2021-09-07 16:15:29 UTC,2021-09-07 16:15:29 UTC,21816,Convelio202109071809220200
+774,CVO-25265,truck,"Gennevilliers, France","Leipzig, Germany",0.005,"",2021-09-07 16:15:30 UTC,2021-09-07 16:15:30 UTC,302,Convelio202109071809220200
+775,CVO-27934,air_freight,"Gennevilliers, France","Asheville, United States",0.005,freighter,2021-09-07 16:15:31 UTC,2021-09-07 16:15:31 UTC,16120,Convelio202109071809220200
+776,CVO-27425,truck,"Gennevilliers, France","London, United Kingdom",0.005,"",2021-09-07 16:15:32 UTC,2021-09-07 16:15:32 UTC,132,Convelio202109071809220200
+777,CVO-27389,truck,"Gennevilliers, France","London, United Kingdom",0.005,"",2021-09-07 16:15:34 UTC,2021-09-07 16:15:34 UTC,132,Convelio202109071809220200
+778,CVO-27236,air_freight,"Gennevilliers, France","New York, United States",0.005,freighter,2021-09-07 16:15:34 UTC,2021-09-07 16:15:34 UTC,13802,Convelio202109071809220200
+779,CVO-27616,air_freight,"Gennevilliers, France","Ottawa, Canada",0.005,freighter,2021-09-07 16:15:35 UTC,2021-09-07 16:15:35 UTC,13370,Convelio202109071809220200
+780,CVO-37457,truck,"Paris, France","Bochum, Germany",0.005,"",2021-09-07 16:15:36 UTC,2021-09-07 16:15:36 UTC,178,Convelio202109071809220200
+781,CVO-35785,truck,"Paris, France","La Grande-Motte, France",0.005,"",2021-09-07 16:15:37 UTC,2021-09-07 16:15:37 UTC,238,Convelio202109071809220200
+782,CVO-35884,air_freight,"Paris, France","Montréal, Canada",0.005,freighter,2021-09-07 16:15:39 UTC,2021-09-07 16:15:39 UTC,13061,Convelio202109071809220200
+783,CVO-34721,air_freight,"Paris, France","Hong Kong, Hong Kong",0.005,freighter,2021-09-07 16:15:40 UTC,2021-09-07 16:15:40 UTC,23056,Convelio202109071809220200
+784,CVO-24983,air_freight,"Paris, France","Mona Vale, Australia",0.006,freighter,2021-09-07 16:15:41 UTC,2021-09-07 16:15:41 UTC,48454,Convelio202109071809220200
+785,CVO-25980,truck,"Gennevilliers, France","London, United Kingdom",0.006,"",2021-09-07 16:15:42 UTC,2021-09-07 16:15:42 UTC,158,Convelio202109071809220200
+786,CVO-25907,air_freight,"Paris, France","Hong Kong, Hong Kong",0.006,freighter,2021-09-07 16:15:43 UTC,2021-09-07 16:15:43 UTC,27667,Convelio202109071809220200
+787,CVO-27780,truck,"Gennevilliers, France","Arnhem, Netherlands",0.006,"",2021-09-07 16:15:44 UTC,2021-09-07 16:15:44 UTC,201,Convelio202109071809220200
+788,CVO-27536,air_freight,"Gennevilliers, France","Castle Hill, Australia",0.006,freighter,2021-09-07 16:15:45 UTC,2021-09-07 16:15:45 UTC,48412,Convelio202109071809220200
+789,CVO-16149,air_freight,"Paris, France","Brighton, Australia",0.006,freighter,2021-09-07 16:15:46 UTC,2021-09-07 16:15:46 UTC,48017,Convelio202109071809220200
+790,CVO-23079,air_freight,"Gennevilliers, France","Houston, United States",0.006,freighter,2021-09-07 16:15:47 UTC,2021-09-07 16:15:47 UTC,23276,Convelio202109071809220200
+791,CVO-27852,air_freight,"Gennevilliers, France","Toronto, Canada",0.006,freighter,2021-09-07 16:15:48 UTC,2021-09-07 16:15:48 UTC,17034,Convelio202109071809220200
+792,CVO-25404,air_freight,"Gennevilliers, France","Great Barrington, United States",0.006,freighter,2021-09-07 16:15:49 UTC,2021-09-07 16:15:49 UTC,16181,Convelio202109071809220200
+793,CVO-17446,air_freight,"Paris, France","Woodbury, United States",0.006,freighter,2021-09-07 16:15:50 UTC,2021-09-07 16:15:50 UTC,19302,Convelio202109071809220200
+794,CVO-29449,air_freight,"Gennevilliers, France","Taipei City, Taiwan",0.006,freighter,2021-09-07 16:15:51 UTC,2021-09-07 16:15:51 UTC,28245,Convelio202109071809220200
+795,CVO-35788,air_freight,"Paris, France","Kowloon, Hong Kong",0.006,freighter,2021-09-07 16:15:52 UTC,2021-09-07 16:15:52 UTC,27670,Convelio202109071809220200
+796,CVO-35895,air_freight,"Paris, France","New York, United States",0.006,freighter,2021-09-07 16:15:53 UTC,2021-09-07 16:15:53 UTC,16581,Convelio202109071809220200
+797,CVO-35991,air_freight,"Paris, France","New York, United States",0.006,freighter,2021-09-07 16:15:54 UTC,2021-09-07 16:15:54 UTC,16581,Convelio202109071809220200
+798,CVO-27203,truck,"Paris, France","London, United Kingdom",0.007,"",2021-09-07 16:15:55 UTC,2021-09-07 16:15:55 UTC,190,Convelio202109071809220200
+799,CVO-26831,truck,"Gennevilliers, France","London, United Kingdom",0.007,"",2021-09-07 16:15:56 UTC,2021-09-07 16:15:56 UTC,185,Convelio202109071809220200
+800,CVO-14921,air_freight,"Paris, France","Malibu, United States",0.007,freighter,2021-09-07 16:15:57 UTC,2021-09-07 16:15:57 UTC,30588,Convelio202109071809220200
+801,CVO-17528,air_freight,"Paris, France","Lisboa, Portugal",0.007,freighter,2021-09-07 16:15:57 UTC,2021-09-07 16:15:57 UTC,6473,Convelio202109071809220200
+802,CVO-25225,truck,"Gennevilliers, France","Genova, Italy",0.007,"",2021-09-07 16:15:59 UTC,2021-09-07 16:15:59 UTC,394,Convelio202109071809220200
+803,CVO-34665,truck,"Paris, France","Budapest, Hungary",0.007,"",2021-09-07 16:16:00 UTC,2021-09-07 16:16:00 UTC,686,Convelio202109071809220200
+804,CVO-18434,truck,"Paris, France","Lisboa, Portugal",0.007,"",2021-09-07 16:16:00 UTC,2021-09-07 16:16:00 UTC,801,Convelio202109071809220200
+805,CVO-28422,air_freight,"Gennevilliers, France","Santa Monica, United States",0.007,freighter,2021-09-07 16:16:01 UTC,2021-09-07 16:16:01 UTC,30512,Convelio202109071809220200
+806,CVO-30756,air_freight,"Paris, France","Los Angeles, United States",0.007,freighter,2021-09-07 16:16:02 UTC,2021-09-07 16:16:02 UTC,30489,Convelio202109071809220200
+807,CVO-25330,truck,"Gennevilliers, France","Antwerpen, Belgium",0.007,"",2021-09-07 16:16:03 UTC,2021-09-07 16:16:03 UTC,163,Convelio202109071809220200
+808,CVO-27731,air_freight,"Gennevilliers, France","Kingston, United States",0.007,freighter,2021-09-07 16:16:05 UTC,2021-09-07 16:16:05 UTC,19068,Convelio202109071809220200
+809,CVO-19352,air_freight,"Gennevilliers, France","Boston, United States",0.007,freighter,2021-09-07 16:16:06 UTC,2021-09-07 16:16:06 UTC,18346,Convelio202109071809220200
+810,CVO-20241,truck,"Paris, France","Santa Cruz de Tenerife, Spain",0.007,"",2021-09-07 16:16:07 UTC,2021-09-07 16:16:07 UTC,1527,Convelio202109071809220200
+811,CVO-26416,air_freight,"Gennevilliers, France","Hsinchu, Taiwan",0.007,freighter,2021-09-07 16:16:09 UTC,2021-09-07 16:16:09 UTC,32903,Convelio202109071809220200
+812,CVO-24787,air_freight,"Paris, France","Santa Monica, United States",0.007,freighter,2021-09-07 16:16:09 UTC,2021-09-07 16:16:09 UTC,30542,Convelio202109071809220200
+813,CVO-32513,truck,"Paris, France","Torny, Switzerland",0.007,"",2021-09-07 16:16:10 UTC,2021-09-07 16:16:10 UTC,229,Convelio202109071809220200
+814,CVO-15403,air_freight,"Paris, France","MCMINNVILLE, United States",0.007,freighter,2021-09-07 16:16:12 UTC,2021-09-07 16:16:12 UTC,27886,Convelio202109071809220200
+815,CVO-15276,air_freight,"Paris, France","Chuo, Japan",0.007,freighter,2021-09-07 16:16:13 UTC,2021-09-07 16:16:13 UTC,32579,Convelio202109071809220200
+816,CVO-20394,air_freight,"Paris, France","Hong Kong, Hong Kong",0.007,freighter,2021-09-07 16:16:14 UTC,2021-09-07 16:16:14 UTC,32278,Convelio202109071809220200
+817,CVO-20148,air_freight,"Paris, France","Singapore, Singapore",0.007,freighter,2021-09-07 16:16:15 UTC,2021-09-07 16:16:15 UTC,35929,Convelio202109071809220200
+818,CVO-30696,air_freight,"Paris, France","Singapore, Singapore",0.007,freighter,2021-09-07 16:16:16 UTC,2021-09-07 16:16:16 UTC,35929,Convelio202109071809220200
+819,CVO-18391,air_freight,"Paris, France","New York, United States",0.007,freighter,2021-09-07 16:16:17 UTC,2021-09-07 16:16:17 UTC,19345,Convelio202109071809220200
+820,CVO-19267,air_freight,"Paris, France","New York, United States",0.007,freighter,2021-09-07 16:16:17 UTC,2021-09-07 16:16:17 UTC,19345,Convelio202109071809220200
+821,CVO-13587,truck,"Paris, France","Dortmund, Germany",0.007,"",2021-09-07 16:16:18 UTC,2021-09-07 16:16:18 UTC,259,Convelio202109071809220200
+822,CVO-24975,truck,"Paris, France","Ölmestad, Sweden",0.007,"",2021-09-07 16:16:19 UTC,2021-09-07 16:16:19 UTC,656,Convelio202109071809220200
+823,CVO-32027,air_freight,"Paris, France","New York, United States",0.007,freighter,2021-09-07 16:16:20 UTC,2021-09-07 16:16:20 UTC,19345,Convelio202109071809220200
+824,CVO-16770,truck,"Paris, France","Napoli, Italy",0.007,"",2021-09-07 16:16:21 UTC,2021-09-07 16:16:21 UTC,712,Convelio202109071809220200
+825,CVO-19372,air_freight,"Paris, France","City of Industry, United States",0.007,freighter,2021-09-07 16:16:23 UTC,2021-09-07 16:16:23 UTC,30449,Convelio202109071809220200
+826,CVO-15415,truck,"Paris, France","Cascais, Portugal",0.007,"",2021-09-07 16:16:23 UTC,2021-09-07 16:16:23 UTC,811,Convelio202109071809220200
+827,CVO-29629,air_freight,"Gennevilliers, France","Fairfax, United States",0.007,freighter,2021-09-07 16:16:25 UTC,2021-09-07 16:16:25 UTC,20519,Convelio202109071809220200
+828,CVO-36053,air_freight,"Paris, France","Toronto, Canada",0.007,freighter,2021-09-07 16:16:25 UTC,2021-09-07 16:16:25 UTC,19897,Convelio202109071809220200
+829,CVO-30618,air_freight,"Paris, France","Hong Kong, Hong Kong",0.007,freighter,2021-09-07 16:16:26 UTC,2021-09-07 16:16:26 UTC,32278,Convelio202109071809220200
+830,CVO-34919,air_freight,"Paris, France","Hong Kong, Hong Kong",0.007,freighter,2021-09-07 16:16:27 UTC,2021-09-07 16:16:27 UTC,32278,Convelio202109071809220200
+831,CVO-26999,truck,"Gennevilliers, France","Montjoie-en-Couserans, France",0.008,"",2021-09-07 16:16:28 UTC,2021-09-07 16:16:28 UTC,419,Convelio202109071809220200
+832,CVO-24755,truck,"Paris, France","Roma, Italy",0.008,"",2021-09-07 16:16:29 UTC,2021-09-07 16:16:29 UTC,697,Convelio202109071809220200
+833,CVO-25878,truck,"Gennevilliers, France","Kleinmachnow, Germany",0.008,"",2021-09-07 16:16:30 UTC,2021-09-07 16:16:30 UTC,543,Convelio202109071809220200
+834,CVO-28523,truck,"Gennevilliers, France","Higher Kinnerton, United Kingdom",0.008,"",2021-09-07 16:16:31 UTC,2021-09-07 16:16:31 UTC,377,Convelio202109071809220200
+835,CVO-24735,truck,"Paris, France","Vésenaz, Switzerland",0.008,"",2021-09-07 16:16:32 UTC,2021-09-07 16:16:32 UTC,258,Convelio202109071809220200
+836,CVO-29123,air_freight,"Paris, France","Hong Kong, Hong Kong",0.008,freighter,2021-09-07 16:16:33 UTC,2021-09-07 16:16:33 UTC,36889,Convelio202109071809220200
+837,CVO-33758,air_freight,"Paris, France","Singapore, Singapore",0.008,freighter,2021-09-07 16:16:34 UTC,2021-09-07 16:16:34 UTC,41062,Convelio202109071809220200
+838,CVO-30122,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.008,freighter,2021-09-07 16:16:34 UTC,2021-09-07 16:16:34 UTC,36889,Convelio202109071809220200
+839,CVO-16194,air_freight,"Gennevilliers, France","Barcelos, Portugal",0.008,freighter,2021-09-07 16:16:36 UTC,2021-09-07 16:16:36 UTC,6152,Convelio202109071809220200
+840,CVO-18388,air_freight,"Paris, France","Aveley, Australia",0.008,freighter,2021-09-07 16:16:37 UTC,2021-09-07 16:16:37 UTC,54480,Convelio202109071809220200
+841,CVO-19380,air_freight,"Paris, France","Olivette, United States",0.008,freighter,2021-09-07 16:16:39 UTC,2021-09-07 16:16:39 UTC,26968,Convelio202109071809220200
+842,CVO-30125,air_freight,"Gennevilliers, France","Voorheesville, United States",0.008,freighter,2021-09-07 16:16:40 UTC,2021-09-07 16:16:40 UTC,21603,Convelio202109071809220200
+843,CVO-27452,air_freight,"Paris, France","Hong Kong, Hong Kong",0.008,freighter,2021-09-07 16:16:41 UTC,2021-09-07 16:16:41 UTC,36889,Convelio202109071809220200
+844,CVO-24886,air_freight,"Paris, France","New York, United States",0.008,freighter,2021-09-07 16:16:42 UTC,2021-09-07 16:16:42 UTC,22108,Convelio202109071809220200
+845,CVO-31408,truck,"Gennevilliers, France","Oberhaching, Germany",0.008,"",2021-09-07 16:16:43 UTC,2021-09-07 16:16:43 UTC,436,Convelio202109071809220200
+846,CVO-17202,air_freight,"Paris, France","Hong Kong, Hong Kong",0.008,freighter,2021-09-07 16:16:44 UTC,2021-09-07 16:16:44 UTC,36889,Convelio202109071809220200
+847,CVO-27302,truck,"Gennevilliers, France","FR01420, France",0.008,"",2021-09-07 16:16:45 UTC,2021-09-07 16:16:45 UTC,3433,Convelio202109071809220200
+848,CVO-11521,air_freight,"Paris, France","New York, United States",0.008,freighter,2021-09-07 16:16:46 UTC,2021-09-07 16:16:46 UTC,22108,Convelio202109071809220200
+849,CVO-29618,air_freight,"Paris, France","New Territories, Hong Kong",0.008,freighter,2021-09-07 16:16:47 UTC,2021-09-07 16:16:47 UTC,36863,Convelio202109071809220200
+850,CVO-19268,air_freight,"Paris, France","Singapore, Singapore",0.008,freighter,2021-09-07 16:16:48 UTC,2021-09-07 16:16:48 UTC,41062,Convelio202109071809220200
+851,CVO-25338,truck,"Gennevilliers, France","Milano, Italy",0.008,"",2021-09-07 16:16:49 UTC,2021-09-07 16:16:49 UTC,408,Convelio202109071809220200
+852,CVO-26352,air_freight,"Gennevilliers, France","Toronto, Canada",0.008,freighter,2021-09-07 16:16:50 UTC,2021-09-07 16:16:50 UTC,22712,Convelio202109071809220200
+853,CVO-29640,air_freight,"Paris, France","Berkeley, United States",0.008,freighter,2021-09-07 16:16:50 UTC,2021-09-07 16:16:50 UTC,34281,Convelio202109071809220200
+854,CVO-23164,air_freight,"Paris, France","Hong Kong, Hong Kong",0.008,freighter,2021-09-07 16:16:51 UTC,2021-09-07 16:16:51 UTC,36889,Convelio202109071809220200
+855,CVO-22337,truck,"Paris, France","Illkirch-Graffenstaden, France",0.008,"",2021-09-07 16:16:52 UTC,2021-09-07 16:16:52 UTC,249,Convelio202109071809220200
+856,CVO-31597,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.008,freighter,2021-09-07 16:16:53 UTC,2021-09-07 16:16:53 UTC,36889,Convelio202109071809220200
+857,CVO-19572,air_freight,"Paris, France","Santa Fe, United States",0.008,freighter,2021-09-07 16:16:54 UTC,2021-09-07 16:16:54 UTC,31704,Convelio202109071809220200
+858,CVO-19365,air_freight,"Paris, France","Ellicott City, United States",0.008,freighter,2021-09-07 16:16:56 UTC,2021-09-07 16:16:56 UTC,23225,Convelio202109071809220200
+859,CVO-20199,air_freight,"Paris, France","New Taipei City, Taiwan",0.008,freighter,2021-09-07 16:16:57 UTC,2021-09-07 16:16:57 UTC,37645,Convelio202109071809220200
+860,CVO-36455,air_freight,"Gennevilliers, France","Strathfieldsaye, Australia",0.008,freighter,2021-09-07 16:16:58 UTC,2021-09-07 16:16:58 UTC,63596,Convelio202109071809220200
+861,CVO-33258,air_freight,"Washington, United States","London, United Kingdom",0.008636364,freighter,2021-09-07 16:16:58 UTC,2021-09-07 16:16:58 UTC,31543,Convelio202109071809220200
+862,CVO-19961,truck,"New York, United States","Sagle, United States",0.008636364,"",2021-09-07 16:16:59 UTC,2021-09-07 16:16:59 UTC,2336,Convelio202109071809220200
+863,CVO-17208,air_freight,"Gennevilliers, France","Château-d'Oex, Switzerland",0.009,freighter,2021-09-07 16:17:01 UTC,2021-09-07 16:17:01 UTC,2709,Convelio202109071809220200
+864,CVO-19150,air_freight,"Paris, France","Hong Kong, Hong Kong",0.009,freighter,2021-09-07 16:17:01 UTC,2021-09-07 16:17:01 UTC,41500,Convelio202109071809220200
+865,CVO-33787,truck,"Paris, France","Saint Julian's, Malta",0.009,"",2021-09-07 16:17:03 UTC,2021-09-07 16:17:03 UTC,1238,Convelio202109071809220200
+866,CVO-17392,air_freight,"Gennevilliers, France","Zürich, Switzerland",0.009,freighter,2021-09-07 16:17:03 UTC,2021-09-07 16:17:03 UTC,2935,Convelio202109071809220200
+867,CVO-29545,air_freight,"Gennevilliers, France","Washington, United States",0.009,freighter,2021-09-07 16:17:04 UTC,2021-09-07 16:17:04 UTC,34370,Convelio202109071809220200
+868,CVO-34680,air_freight,"Paris, France","Kowloon, Hong Kong",0.009,freighter,2021-09-07 16:17:05 UTC,2021-09-07 16:17:05 UTC,41505,Convelio202109071809220200
+869,CVO-29824,air_freight,"Paris, France","Chuo, Japan",0.009,freighter,2021-09-07 16:17:06 UTC,2021-09-07 16:17:06 UTC,41887,Convelio202109071809220200
+870,CVO-26096,truck,"Gennevilliers, France","Hamburg, Germany",0.009,"",2021-09-07 16:17:07 UTC,2021-09-07 16:17:07 UTC,527,Convelio202109071809220200
+871,CVO-31163,truck,"Gennevilliers, France","Porto, Portugal",0.009,"",2021-09-07 16:17:08 UTC,2021-09-07 16:17:08 UTC,862,Convelio202109071809220200
+872,CVO-24845,truck,"Paris, France","Ferrara, Italy",0.009,"",2021-09-07 16:17:09 UTC,2021-09-07 16:17:09 UTC,591,Convelio202109071809220200
+873,CVO-36138,air_freight,"Paris, France","Kensington, United States",0.009,freighter,2021-09-07 16:17:10 UTC,2021-09-07 16:17:10 UTC,25405,Convelio202109071809220200
+874,CVO-35892,air_freight,"Paris, France","Akron, United States",0.009,freighter,2021-09-07 16:17:11 UTC,2021-09-07 16:17:11 UTC,26979,Convelio202109071809220200
+875,CVO-29641,truck,"Paris, France","Selling, United Kingdom",0.01,"",2021-09-07 16:17:13 UTC,2021-09-07 16:17:13 UTC,272,Convelio202109071809220200
+876,CVO-25824,truck,"Gennevilliers, France","Witten, Germany",0.01,"",2021-09-07 16:17:14 UTC,2021-09-07 16:17:14 UTC,360,Convelio202109071809220200
+877,CVO-26039,air_freight,"Gennevilliers, France","Gloucester, United States",0.01,freighter,2021-09-07 16:17:15 UTC,2021-09-07 16:17:15 UTC,25900,Convelio202109071809220200
+878,CVO-24854,air_freight,"Paris, France","New York, United States",0.01,freighter,2021-09-07 16:17:16 UTC,2021-09-07 16:17:16 UTC,27635,Convelio202109071809220200
+879,CVO-17760,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.01,freighter,2021-09-07 16:17:17 UTC,2021-09-07 16:17:17 UTC,46112,Convelio202109071809220200
+880,CVO-18131,air_freight,"Paris, France","Waterford Township, United States",0.01,freighter,2021-09-07 16:17:19 UTC,2021-09-07 16:17:19 UTC,30031,Convelio202109071809220200
+881,CVO-27588,truck,"Gennevilliers, France","Bucuresti, Romania",0.01,"",2021-09-07 16:17:20 UTC,2021-09-07 16:17:20 UTC,1478,Convelio202109071809220200
+882,CVO-25459,truck,"Gennevilliers, France","London, United Kingdom",0.01,"",2021-09-07 16:17:21 UTC,2021-09-07 16:17:21 UTC,264,Convelio202109071809220200
+883,CVO-30685,air_freight,"Gennevilliers, France","Kuala Lumpur, Malaysia",0.01,freighter,2021-09-07 16:17:22 UTC,2021-09-07 16:17:22 UTC,49896,Convelio202109071809220200
+884,CVO-24848,air_freight,"Paris, France","New York, United States",0.01,freighter,2021-09-07 16:17:22 UTC,2021-09-07 16:17:22 UTC,27635,Convelio202109071809220200
+885,CVO-16199,air_freight,"Paris, France","Kowloon, Hong Kong",0.01,freighter,2021-09-07 16:17:23 UTC,2021-09-07 16:17:23 UTC,46116,Convelio202109071809220200
+886,CVO-23558,air_freight,"Gennevilliers, France","Laredo, United States",0.01,freighter,2021-09-07 16:17:24 UTC,2021-09-07 16:17:24 UTC,40957,Convelio202109071809220200
+887,CVO-35660,air_freight,"Gennevilliers, France","Richmond, United States",0.01,freighter,2021-09-07 16:17:26 UTC,2021-09-07 16:17:26 UTC,29808,Convelio202109071809220200
+888,CVO-25418,truck,"Gennevilliers, France","London, United Kingdom",0.011,"",2021-09-07 16:17:26 UTC,2021-09-07 16:17:26 UTC,290,Convelio202109071809220200
+889,CVO-5783,truck,"Paris, France","Milano, Italy",0.011,"",2021-09-07 16:17:27 UTC,2021-09-07 16:17:27 UTC,554,Convelio202109071809220200
+890,CVO-25871,truck,"Gennevilliers, France","Stuttgart, Germany",0.011,"",2021-09-07 16:17:28 UTC,2021-09-07 16:17:28 UTC,437,Convelio202109071809220200
+891,CVO-27384,truck,"Gennevilliers, France","Dublin, Ireland",0.011,"",2021-09-07 16:17:29 UTC,2021-09-07 16:17:29 UTC,670,Convelio202109071809220200
+892,CVO-13696,air_freight,"Gennevilliers, France","Aspen, United States",0.011,freighter,2021-09-07 16:17:30 UTC,2021-09-07 16:17:30 UTC,42272,Convelio202109071809220200
+893,CVO-25402,truck,"Gennevilliers, France","London, United Kingdom",0.011,"",2021-09-07 16:17:30 UTC,2021-09-07 16:17:30 UTC,290,Convelio202109071809220200
+894,CVO-24573,truck,"Paris, France","Burgas, Bulgaria",0.011,"",2021-09-07 16:17:32 UTC,2021-09-07 16:17:32 UTC,1789,Convelio202109071809220200
+895,CVO-28480,air_freight,"Paris, France","Los Angeles, United States",0.011,freighter,2021-09-07 16:17:32 UTC,2021-09-07 16:17:32 UTC,47911,Convelio202109071809220200
+896,CVO-36972,air_freight,"Paris, France","Atlanta, United States",0.011,freighter,2021-09-07 16:17:33 UTC,2021-09-07 16:17:33 UTC,36948,Convelio202109071809220200
+897,CVO-18703,truck,"Hopewell, United States","Waimea, United States",0.011363636,"",2021-09-07 16:17:35 UTC,2021-09-07 16:17:35 UTC,6874,Convelio202109071809220200
+898,CVO-10453,air_freight,"Paris, France","Oceanside, United States",0.012,freighter,2021-09-07 16:17:36 UTC,2021-09-07 16:17:36 UTC,33053,Convelio202109071809220200
+899,CVO-21453,air_freight,"Paris, France","Santo Domingo, Dominican Republic",0.012,freighter,2021-09-07 16:17:37 UTC,2021-09-07 16:17:37 UTC,41200,Convelio202109071809220200
+900,CVO-23280,truck,"Gennevilliers, France","Gravina in Puglia, Italy",0.012,"",2021-09-07 16:17:39 UTC,2021-09-07 16:17:39 UTC,1351,Convelio202109071809220200
+901,CVO-33626,truck,"Paris, France","Mougins, France",0.012,"",2021-09-07 16:17:40 UTC,2021-09-07 16:17:40 UTC,648,Convelio202109071809220200
+902,CVO-19983,air_freight,"Paris, France","Singapore, Singapore",0.012,freighter,2021-09-07 16:17:41 UTC,2021-09-07 16:17:41 UTC,61593,Convelio202109071809220200
+903,CVO-34133,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.012,freighter,2021-09-07 16:17:41 UTC,2021-09-07 16:17:41 UTC,55334,Convelio202109071809220200
+904,CVO-34659,truck,"Paris, France","Chessington, United Kingdom",0.012,"",2021-09-07 16:17:43 UTC,2021-09-07 16:17:43 UTC,318,Convelio202109071809220200
+905,CVO-27310,air_freight,"Gennevilliers, France","New York, United States",0.012,freighter,2021-09-07 16:17:44 UTC,2021-09-07 16:17:44 UTC,33124,Convelio202109071809220200
+906,CVO-31336,truck,"Paris, France","Ennetbaden, Switzerland",0.012,"",2021-09-07 16:17:45 UTC,2021-09-07 16:17:45 UTC,442,Convelio202109071809220200
+907,CVO-28709,truck,"Gennevilliers, France","Torino, Italy",0.012,"",2021-09-07 16:17:46 UTC,2021-09-07 16:17:46 UTC,560,Convelio202109071809220200
+908,CVO-37458,truck,"Paris, France","Herrliberg, Switzerland",0.012,"",2021-09-07 16:17:47 UTC,2021-09-07 16:17:47 UTC,470,Convelio202109071809220200
+909,CVO-4082,air_freight,"New York, United States","Moskva, Russia",0.013,freighter,2021-09-07 16:17:48 UTC,2021-09-07 16:17:48 UTC,46768,Convelio202109071809220200
+910,CVO-27123,air_freight,"Paris, France","Hong Kong, Hong Kong",0.013,freighter,2021-09-07 16:17:49 UTC,2021-09-07 16:17:49 UTC,59945,Convelio202109071809220200
+911,CVO-31164,air_freight,"Paris, France","Zagreb, Croatia",0.013,freighter,2021-09-07 16:17:49 UTC,2021-09-07 16:17:49 UTC,9188,Convelio202109071809220200
+912,CVO-18134,air_freight,"Paris, France","Lutry, Switzerland",0.013,freighter,2021-09-07 16:17:50 UTC,2021-09-07 16:17:50 UTC,3625,Convelio202109071809220200
+913,CVO-9943,air_freight,"Paris, France","Hong Kong, Hong Kong",0.013,freighter,2021-09-07 16:17:52 UTC,2021-09-07 16:17:52 UTC,59945,Convelio202109071809220200
+914,CVO-32251,air_freight,"Gennevilliers, France","Miami, United States",0.013,freighter,2021-09-07 16:17:53 UTC,2021-09-07 16:17:53 UTC,45716,Convelio202109071809220200
+915,CVO-22029,air_freight,"Gennevilliers, France","Miami, United States",0.013,freighter,2021-09-07 16:17:54 UTC,2021-09-07 16:17:54 UTC,45716,Convelio202109071809220200
+916,CVO-28705,truck,"Gennevilliers, France","Madrid, Spain",0.013,"",2021-09-07 16:17:55 UTC,2021-09-07 16:17:55 UTC,1083,Convelio202109071809220200
+917,CVO-24951,truck,"Gennevilliers, France","Chieti, Italy",0.013,"",2021-09-07 16:17:57 UTC,2021-09-07 16:17:57 UTC,1204,Convelio202109071809220200
+918,CVO-11545,air_freight,"Paris, France","Viken, Sweden",0.013,freighter,2021-09-07 16:17:58 UTC,2021-09-07 16:17:58 UTC,9063,Convelio202109071809220200
+919,CVO-24836,truck,"Paris, France","London, United Kingdom",0.013,"",2021-09-07 16:17:58 UTC,2021-09-07 16:17:58 UTC,352,Convelio202109071809220200
+920,CVO-14269,air_freight,"Gennevilliers, France","Houston, United States",0.013,freighter,2021-09-07 16:17:59 UTC,2021-09-07 16:17:59 UTC,50431,Convelio202109071809220200
+921,CVO-16173,air_freight,"Paris, France","Taoyuan, Taiwan",0.013,freighter,2021-09-07 16:18:01 UTC,2021-09-07 16:18:01 UTC,61130,Convelio202109071809220200
+922,CVO-29473,air_freight,"Paris, France","Hong Kong, Hong Kong",0.013,freighter,2021-09-07 16:18:02 UTC,2021-09-07 16:18:02 UTC,59945,Convelio202109071809220200
+923,CVO-25443,truck,"Gennevilliers, France","Schilde, Belgium",0.013,"",2021-09-07 16:18:03 UTC,2021-09-07 16:18:03 UTC,312,Convelio202109071809220200
+924,CVO-30473,truck,"Gennevilliers, France","Desenzano del Garda, Italy",0.013,"",2021-09-07 16:18:04 UTC,2021-09-07 16:18:04 UTC,749,Convelio202109071809220200
+925,CVO-35187,air_freight,"Paris, France","Houston, United States",0.013,freighter,2021-09-07 16:18:05 UTC,2021-09-07 16:18:05 UTC,50474,Convelio202109071809220200
+926,CVO-27098,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.014,freighter,2021-09-07 16:18:06 UTC,2021-09-07 16:18:06 UTC,64556,Convelio202109071809220200
+927,CVO-21816,air_freight,"Paris, France","New York, United States",0.014,freighter,2021-09-07 16:18:07 UTC,2021-09-07 16:18:07 UTC,38689,Convelio202109071809220200
+928,CVO-29134,truck,"Paris, France","Madrid, Spain",0.014,"",2021-09-07 16:18:07 UTC,2021-09-07 16:18:07 UTC,1162,Convelio202109071809220200
+929,CVO-10063,air_freight,"Paris, France","New York, United States",0.014,freighter,2021-09-07 16:18:08 UTC,2021-09-07 16:18:08 UTC,38689,Convelio202109071809220200
+930,CVO-34693,truck,"Gennevilliers, France","Venezia, Italy",0.014,"",2021-09-07 16:18:09 UTC,2021-09-07 16:18:09 UTC,938,Convelio202109071809220200
+931,CVO-21190,air_freight,"Gennevilliers, France","Tambon Nong Prue, Thailand",0.014,freighter,2021-09-07 16:18:11 UTC,2021-09-07 16:18:11 UTC,62393,Convelio202109071809220200
+932,CVO-19388,truck,"Paris, France","Heidelberg, Germany",0.014,"",2021-09-07 16:18:12 UTC,2021-09-07 16:18:12 UTC,511,Convelio202109071809220200
+933,CVO-31275,air_freight,"Paris, France","Hanói, Vietnam",0.014,freighter,2021-09-07 16:18:13 UTC,2021-09-07 16:18:13 UTC,61705,Convelio202109071809220200
+934,CVO-18427,truck,"Gennevilliers, France","Milano, Italy",0.014,"",2021-09-07 16:18:14 UTC,2021-09-07 16:18:14 UTC,714,Convelio202109071809220200
+935,CVO-20512,truck,"Gennevilliers, France","Milano, Italy",0.014,"",2021-09-07 16:18:15 UTC,2021-09-07 16:18:15 UTC,714,Convelio202109071809220200
+936,CVO-27938,air_freight,"Gennevilliers, France","Belmont, United States",0.014,freighter,2021-09-07 16:18:16 UTC,2021-09-07 16:18:16 UTC,60158,Convelio202109071809220200
+937,CVO-32664,truck,"Gennevilliers, France","Veltheim, Germany",0.014,"",2021-09-07 16:18:17 UTC,2021-09-07 16:18:17 UTC,767,Convelio202109071809220200
+938,CVO-19385,air_freight,"Paris, France","Chiyoda, Japan",0.014,freighter,2021-09-07 16:18:18 UTC,2021-09-07 16:18:18 UTC,65138,Convelio202109071809220200
+939,CVO-10646,air_freight,"Paris, France","Corte Madera, United States",0.015,freighter,2021-09-07 16:18:20 UTC,2021-09-07 16:18:20 UTC,64334,Convelio202109071809220200
+940,CVO-19376,air_freight,"Paris, France","Taipei City, Taiwan",0.015,freighter,2021-09-07 16:18:20 UTC,2021-09-07 16:18:20 UTC,70620,Convelio202109071809220200
+941,CVO-27613,air_freight,"Gennevilliers, France","New York, United States",0.015,freighter,2021-09-07 16:18:21 UTC,2021-09-07 16:18:21 UTC,41405,Convelio202109071809220200
+942,CVO-25979,truck,"Gennevilliers, France","Dublin, Ireland",0.015,"",2021-09-07 16:18:22 UTC,2021-09-07 16:18:22 UTC,913,Convelio202109071809220200
+943,CVO-23354,air_freight,"Paris, France","Hong Kong, Hong Kong",0.015,freighter,2021-09-07 16:18:23 UTC,2021-09-07 16:18:23 UTC,69167,Convelio202109071809220200
+944,CVO-28711,truck,"Gennevilliers, France","Eastbourne, United Kingdom",0.015,"",2021-09-07 16:18:24 UTC,2021-09-07 16:18:24 UTC,295,Convelio202109071809220200
+945,CVO-27344,air_freight,"Gennevilliers, France","San Antonio, United States",0.015,freighter,2021-09-07 16:18:25 UTC,2021-09-07 16:18:25 UTC,59834,Convelio202109071809220200
+946,CVO-34996,air_freight,"Gennevilliers, France","Los Altos Hills, United States",0.015,freighter,2021-09-07 16:18:27 UTC,2021-09-07 16:18:27 UTC,64497,Convelio202109071809220200
+947,CVO-34691,air_freight,"Paris, France","Singapore, Singapore",0.015,freighter,2021-09-07 16:18:27 UTC,2021-09-07 16:18:27 UTC,76991,Convelio202109071809220200
+948,CVO-35587,air_freight,"Gennevilliers, France","Chicago, United States",0.015,freighter,2021-09-07 16:18:28 UTC,2021-09-07 16:18:28 UTC,47418,Convelio202109071809220200
+949,CVO-36533,air_freight,"Paris, France","Hong Kong, Hong Kong (香港)",0.015,freighter,2021-09-07 16:18:30 UTC,2021-09-07 16:18:30 UTC,69167,Convelio202109071809220200
+950,CVO-33797,air_freight,"Paris, France","Hong Kong, Hong Kong",0.016,freighter,2021-09-07 16:18:30 UTC,2021-09-07 16:18:30 UTC,73779,Convelio202109071809220200
+951,CVO-10494,air_freight,"Paris, France","Minato, Japan",0.016,freighter,2021-09-07 16:18:31 UTC,2021-09-07 16:18:31 UTC,74466,Convelio202109071809220200
+952,CVO-19136,truck,"London, United Kingdom","Gennevilliers, France",0.016,"",2021-09-07 16:18:32 UTC,2021-09-07 16:18:32 UTC,422,Convelio202109071809220200
+953,CVO-33949,truck,"Gennevilliers, France","Murcia, Spain",0.016,"",2021-09-07 16:18:33 UTC,2021-09-07 16:18:33 UTC,1572,Convelio202109071809220200
+954,CVO-34828,air_freight,"Gennevilliers, France","Gilbert, United States",0.016,freighter,2021-09-07 16:18:35 UTC,2021-09-07 16:18:35 UTC,67421,Convelio202109071809220200
+955,CVO-18389,air_freight,"Paris, France","Miami, United States",0.017,freighter,2021-09-07 16:18:36 UTC,2021-09-07 16:18:36 UTC,59834,Convelio202109071809220200
+956,CVO-31806,air_freight,"Gennevilliers, France","Shinjuku, Japan",0.017,freighter,2021-09-07 16:18:37 UTC,2021-09-07 16:18:37 UTC,79048,Convelio202109071809220200
+957,CVO-34861,truck,"Gennevilliers, France","Sofia, Bulgaria",0.017,"",2021-09-07 16:18:38 UTC,2021-09-07 16:18:38 UTC,2363,Convelio202109071809220200
+958,CVO-34161,air_freight,"Gennevilliers, France","Minato, Japan",0.017,freighter,2021-09-07 16:18:39 UTC,2021-09-07 16:18:39 UTC,79088,Convelio202109071809220200
+959,CVO-16652,truck,"Gennevilliers, France","Kapellen, Belgium",0.017,"",2021-09-07 16:18:39 UTC,2021-09-07 16:18:39 UTC,411,Convelio202109071809220200
+960,CVO-13866,air_freight,"Paris, France","Abu Dhabi, United Arab Emirates",0.017,freighter,2021-09-07 16:18:41 UTC,2021-09-07 16:18:41 UTC,42173,Convelio202109071809220200
+961,CVO-18607,truck,"Chicago, United States","Haverford, United States",0.017272727,"",2021-09-07 16:18:42 UTC,2021-09-07 16:18:42 UTC,1435,Convelio202109071809220200
+962,CVO-30451,air_freight,"Gennevilliers, France","Birmingham, United States",0.018,freighter,2021-09-07 16:18:43 UTC,2021-09-07 16:18:43 UTC,62036,Convelio202109071809220200
+963,CVO-22757,air_freight,"Paris, France","Minato, Japan",0.018,freighter,2021-09-07 16:18:43 UTC,2021-09-07 16:18:43 UTC,83775,Convelio202109071809220200
+964,CVO-34338,air_freight,"Paris, France","Boston, United States",0.018,freighter,2021-09-07 16:18:44 UTC,2021-09-07 16:18:44 UTC,47234,Convelio202109071809220200
+965,CVO-29614,air_freight,"Paris, France","Tokyo, Japan",0.018,freighter,2021-09-07 16:18:46 UTC,2021-09-07 16:18:46 UTC,83732,Convelio202109071809220200
+966,CVO-18428,air_freight,"Paris, France","Miami, United States",0.018,freighter,2021-09-07 16:18:46 UTC,2021-09-07 16:18:46 UTC,63353,Convelio202109071809220200
+967,CVO-20467,air_freight,"Paris, France","Lyme, United States",0.018,freighter,2021-09-07 16:18:48 UTC,2021-09-07 16:18:48 UTC,48452,Convelio202109071809220200
+968,CVO-37469,truck,"Paris, France","Milano, Italy",0.018,"",2021-09-07 16:18:49 UTC,2021-09-07 16:18:49 UTC,907,Convelio202109071809220200
+969,CVO-35103,air_freight,"Paris, France","Singapore, Singapore",0.018,freighter,2021-09-07 16:18:50 UTC,2021-09-07 16:18:50 UTC,92390,Convelio202109071809220200
+970,CVO-14062,truck,"New York, United States","New Braunfels, United States",0.018181818,"",2021-09-07 16:18:51 UTC,2021-09-07 16:18:51 UTC,3579,Convelio202109071809220200
+971,CVO-33295,air_freight,"Gennevilliers, France","New York, United States",0.019,freighter,2021-09-07 16:18:51 UTC,2021-09-07 16:18:51 UTC,52447,Convelio202109071809220200
+972,CVO-34820,air_freight,"Paris, France","22.2865/114.1521, Hong Kong",0.019,freighter,2021-09-07 16:18:53 UTC,2021-09-07 16:18:53 UTC,48830,Convelio202109071809220200
+973,CVO-28018,truck,"Gennevilliers, France","London, United Kingdom",0.019,"",2021-09-07 16:18:54 UTC,2021-09-07 16:18:54 UTC,501,Convelio202109071809220200
+974,CVO-31824,truck,"Gennevilliers, France","Ljubljana, Slovenia",0.019,"",2021-09-07 16:18:54 UTC,2021-09-07 16:18:54 UTC,1453,Convelio202109071809220200
+975,CVO-20038,air_freight,"Gennevilliers, France","New York, United States",0.019,freighter,2021-09-07 16:18:55 UTC,2021-09-07 16:18:55 UTC,52447,Convelio202109071809220200
+976,CVO-30857,truck,"Gennevilliers, France","Glasgow, United Kingdom",0.019,"",2021-09-07 16:18:56 UTC,2021-09-07 16:18:56 UTC,1331,Convelio202109071809220200
+977,CVO-32669,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.019,freighter,2021-09-07 16:18:57 UTC,2021-09-07 16:18:57 UTC,87612,Convelio202109071809220200
+978,CVO-33498,air_freight,"Gennevilliers, France","Washington, United States",0.019,freighter,2021-09-07 16:18:58 UTC,2021-09-07 16:18:58 UTC,72558,Convelio202109071809220200
+979,CVO-28725,truck,"Gennevilliers, France","London, United Kingdom",0.019,"",2021-09-07 16:18:59 UTC,2021-09-07 16:18:59 UTC,501,Convelio202109071809220200
+980,CVO-15301,truck,"Paris, France","Lennik, Belgium",0.02,"",2021-09-07 16:19:00 UTC,2021-09-07 16:19:00 UTC,398,Convelio202109071809220200
+981,CVO-16395,air_freight,"Paris, France","Vancouver, Canada",0.02,freighter,2021-09-07 16:19:01 UTC,2021-09-07 16:19:01 UTC,76094,Convelio202109071809220200
+982,CVO-11511,air_freight,"Paris, France","New York, United States",0.02,freighter,2021-09-07 16:19:01 UTC,2021-09-07 16:19:01 UTC,55270,Convelio202109071809220200
+983,CVO-34916,air_freight,"Paris, France","Kowloon, Hong Kong",0.02,freighter,2021-09-07 16:19:02 UTC,2021-09-07 16:19:02 UTC,92233,Convelio202109071809220200
+984,CVO-36968,air_freight,"Paris, France","Kuala Lumpur, Malaysia",0.02,freighter,2021-09-07 16:19:03 UTC,2021-09-07 16:19:03 UTC,99764,Convelio202109071809220200
+985,CVO-30126,air_freight,"Gennevilliers, France","Kuala Lumpur, Malaysia",0.021,freighter,2021-09-07 16:19:04 UTC,2021-09-07 16:19:04 UTC,104782,Convelio202109071809220200
+986,CVO-27782,air_freight,"Gennevilliers, France","Washington, United States",0.021,freighter,2021-09-07 16:19:05 UTC,2021-09-07 16:19:05 UTC,80196,Convelio202109071809220200
+987,CVO-26993,air_freight,"Gennevilliers, France","New York, United States",0.021,freighter,2021-09-07 16:19:05 UTC,2021-09-07 16:19:05 UTC,57967,Convelio202109071809220200
+988,CVO-10791,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.021,freighter,2021-09-07 16:19:06 UTC,2021-09-07 16:19:06 UTC,96834,Convelio202109071809220200
+989,CVO-17453,truck,"Paris, France","Hamburg, Germany",0.022,"",2021-09-07 16:19:07 UTC,2021-09-07 16:19:07 UTC,1291,Convelio202109071809220200
+990,CVO-33446,truck,"Gennevilliers, France","Edinburgh, United Kingdom",0.022,"",2021-09-07 16:19:08 UTC,2021-09-07 16:19:08 UTC,1498,Convelio202109071809220200
+991,CVO-21073,air_freight,"Gennevilliers, France","Kafr Manda, Israel",0.022,freighter,2021-09-07 16:19:10 UTC,2021-09-07 16:19:10 UTC,39497,Convelio202109071809220200
+992,CVO-30729,air_freight,"Paris, France","Hong Kong, Hong Kong",0.022,freighter,2021-09-07 16:19:10 UTC,2021-09-07 16:19:10 UTC,101446,Convelio202109071809220200
+993,CVO-24959,air_freight,"Paris, France","New York, United States",0.022,freighter,2021-09-07 16:19:11 UTC,2021-09-07 16:19:11 UTC,60797,Convelio202109071809220200
+994,CVO-21608,air_freight,"Paris, France","North Attleborough, United States",0.022,freighter,2021-09-07 16:19:12 UTC,2021-09-07 16:19:12 UTC,58180,Convelio202109071809220200
+995,CVO-29209,air_freight,"Paris, France","Mission Viejo, United States",0.023,freighter,2021-09-07 16:19:14 UTC,2021-09-07 16:19:14 UTC,100287,Convelio202109071809220200
+996,CVO-29634,truck,"Gennevilliers, France","Haddington, United Kingdom",0.023,"",2021-09-07 16:19:15 UTC,2021-09-07 16:19:15 UTC,1547,Convelio202109071809220200
+997,CVO-20471,air_freight,"Gennevilliers, France","West Plains, New Zealand",0.023,freighter,2021-09-07 16:19:16 UTC,2021-09-07 16:19:16 UTC,207267,Convelio202109071809220200
+998,CVO-20206,truck,"Paris, France","Berlin, Germany",0.023,"",2021-09-07 16:19:17 UTC,2021-09-07 16:19:17 UTC,1590,Convelio202109071809220200
+999,CVO-28490,air_freight,"Gennevilliers, France","Los Angeles, United States",0.023,freighter,2021-09-07 16:19:18 UTC,2021-09-07 16:19:18 UTC,100080,Convelio202109071809220200
+1000,CVO-17455,truck,"Gennevilliers, France","Ostseebad Boltenhagen, Germany",0.023,"",2021-09-07 16:19:19 UTC,2021-09-07 16:19:19 UTC,1512,Convelio202109071809220200
+1001,CVO-21067,truck,"Gennevilliers, France","42.169482/14.695496, Italy",0.023,"",2021-09-07 16:19:20 UTC,2021-09-07 16:19:20 UTC,9870,Convelio202109071809220200
+1002,CVO-37411,truck,"Gennevilliers, France","Obrnice, Czechia",0.023,"",2021-09-07 16:19:21 UTC,2021-09-07 16:19:21 UTC,1518,Convelio202109071809220200
+1003,CVO-26766,air_freight,"Gennevilliers, France","Miami Beach, United States",0.024,freighter,2021-09-07 16:19:22 UTC,2021-09-07 16:19:22 UTC,84326,Convelio202109071809220200
+1004,CVO-29296,air_freight,"Paris, France","Sag Harbor, United States",0.024,freighter,2021-09-07 16:19:24 UTC,2021-09-07 16:19:24 UTC,64843,Convelio202109071809220200
+1005,CVO-29832,air_freight,"Gennevilliers, France","Seoul, South Korea",0.024,freighter,2021-09-07 16:19:24 UTC,2021-09-07 16:19:24 UTC,103139,Convelio202109071809220200
+1006,CVO-31378,air_freight,"Gennevilliers, France","Palm Beach, United States",0.024,freighter,2021-09-07 16:19:25 UTC,2021-09-07 16:19:25 UTC,83380,Convelio202109071809220200
+1007,CVO-16798,air_freight,"Gennevilliers, France","Monthey, Switzerland",0.025,freighter,2021-09-07 16:19:27 UTC,2021-09-07 16:19:27 UTC,7615,Convelio202109071809220200
+1008,CVO-25950,air_freight,"Paris, France","Coppell, United States",0.025,freighter,2021-09-07 16:19:28 UTC,2021-09-07 16:19:28 UTC,95271,Convelio202109071809220200
+1009,CVO-21157,air_freight,"Paris, France","Hong Kong, Hong Kong",0.025,freighter,2021-09-07 16:19:29 UTC,2021-09-07 16:19:29 UTC,115279,Convelio202109071809220200
+1010,CVO-18198,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.026,freighter,2021-09-07 16:19:29 UTC,2021-09-07 16:19:29 UTC,119890,Convelio202109071809220200
+1011,CVO-14965,air_freight,"Paris, France","Marathon, United States",0.026,freighter,2021-09-07 16:19:31 UTC,2021-09-07 16:19:31 UTC,93379,Convelio202109071809220200
+1012,CVO-34943,air_freight,"Paris, France","Kings Point, United States",0.026,freighter,2021-09-07 16:19:33 UTC,2021-09-07 16:19:33 UTC,71568,Convelio202109071809220200
+1013,CVO-17366,air_freight,"Gennevilliers, France","Putot-en-Auge, France",0.026,freighter,2021-09-07 16:19:34 UTC,2021-09-07 16:19:34 UTC,3501,Convelio202109071809220200
+1014,CVO-22497,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.026,freighter,2021-09-07 16:19:35 UTC,2021-09-07 16:19:35 UTC,119890,Convelio202109071809220200
+1015,CVO-19584,air_freight,"Gennevilliers, France","Jersey City, United States",0.026,freighter,2021-09-07 16:19:36 UTC,2021-09-07 16:19:36 UTC,71793,Convelio202109071809220200
+1016,CVO-24659,truck,"Paris, France","Brecht, Belgium",0.026,"",2021-09-07 16:19:37 UTC,2021-09-07 16:19:37 UTC,659,Convelio202109071809220200
+1017,CVO-29650,truck,"Gennevilliers, France","London, United Kingdom",0.026,"",2021-09-07 16:19:38 UTC,2021-09-07 16:19:38 UTC,686,Convelio202109071809220200
+1018,CVO-13221,air_freight,"Gennevilliers, France","Gardena, United States",0.026,freighter,2021-09-07 16:19:39 UTC,2021-09-07 16:19:39 UTC,113367,Convelio202109071809220200
+1019,CVO-20044,air_freight,"Gennevilliers, France","Aventura, United States",0.026,freighter,2021-09-07 16:19:40 UTC,2021-09-07 16:19:40 UTC,91182,Convelio202109071809220200
+1020,CVO-20071,truck,"Paris, France","Milano, Italy",0.027,"",2021-09-07 16:19:41 UTC,2021-09-07 16:19:41 UTC,1361,Convelio202109071809220200
+1021,CVO-24926,truck,"Gennevilliers, France","Overijse, Belgium",0.027,"",2021-09-07 16:19:42 UTC,2021-09-07 16:19:42 UTC,555,Convelio202109071809220200
+1022,CVO-30692,truck,"Gennevilliers, France","Hägersten, Sweden",0.027,"",2021-09-07 16:19:43 UTC,2021-09-07 16:19:43 UTC,3268,Convelio202109071809220200
+1023,CVO-18640,air_freight,"Paris, France","New York, United States",0.027,freighter,2021-09-07 16:19:44 UTC,2021-09-07 16:19:44 UTC,74615,Convelio202109071809220200
+1024,CVO-17601,truck,"Paris, France","Is-Swieqi, Malta",0.027,"",2021-09-07 16:19:45 UTC,2021-09-07 16:19:45 UTC,3712,Convelio202109071809220200
+1025,CVO-10648,air_freight,"Paris, France","Stockholm, Sweden",0.027,freighter,2021-09-07 16:19:46 UTC,2021-09-07 16:19:46 UTC,26174,Convelio202109071809220200
+1026,CVO-24839,air_freight,"Paris, France","Chicago, United States",0.028,freighter,2021-09-07 16:19:47 UTC,2021-09-07 16:19:47 UTC,88625,Convelio202109071809220200
+1027,CVO-25494,air_freight,"Gennevilliers, France","Cincinnati, United States",0.028,freighter,2021-09-07 16:19:48 UTC,2021-09-07 16:19:48 UTC,88513,Convelio202109071809220200
+1028,CVO-18518,air_freight,"Gennevilliers, France","New York, United States",0.029,freighter,2021-09-07 16:19:49 UTC,2021-09-07 16:19:49 UTC,80050,Convelio202109071809220200
+1029,CVO-20275,air_freight,"Gennevilliers, France","Sterling, United States",0.029,freighter,2021-09-07 16:19:50 UTC,2021-09-07 16:19:50 UTC,84965,Convelio202109071809220200
+1030,CVO-20271,air_freight,"Gennevilliers, France","Houston, United States",0.029,freighter,2021-09-07 16:19:51 UTC,2021-09-07 16:19:51 UTC,112501,Convelio202109071809220200
+1031,CVO-27103,air_freight,"Gennevilliers, France","New York, United States",0.029,freighter,2021-09-07 16:19:52 UTC,2021-09-07 16:19:52 UTC,80050,Convelio202109071809220200
+1032,CVO-22432,truck,"Paris, France","New Malden, United Kingdom",0.029,"",2021-09-07 16:19:53 UTC,2021-09-07 16:19:53 UTC,774,Convelio202109071809220200
+1033,CVO-34365,air_freight,"Paris, France","Kowloon, Hong Kong",0.029,freighter,2021-09-07 16:19:54 UTC,2021-09-07 16:19:54 UTC,133737,Convelio202109071809220200
+1034,CVO-10949,air_freight,"Gennevilliers, France","Los Angeles, United States",0.03,freighter,2021-09-07 16:19:55 UTC,2021-09-07 16:19:55 UTC,130539,Convelio202109071809220200
+1035,CVO-27206,air_freight,"Gennevilliers, France","New York, United States",0.03,freighter,2021-09-07 16:19:56 UTC,2021-09-07 16:19:56 UTC,82810,Convelio202109071809220200
+1036,CVO-17869,air_freight,"Paris, France","Sitka, United States",0.03,freighter,2021-09-07 16:19:57 UTC,2021-09-07 16:19:57 UTC,109465,Convelio202109071809220200
+1037,CVO-29143,air_freight,"Paris, France","Kowloon, Hong Kong",0.03,freighter,2021-09-07 16:19:58 UTC,2021-09-07 16:19:58 UTC,138349,Convelio202109071809220200
+1038,CVO-10410,air_freight,"Paris, France","København, Denmark",0.031,freighter,2021-09-07 16:19:59 UTC,2021-09-07 16:19:59 UTC,20926,Convelio202109071809220200
+1039,CVO-17705,truck,"Paris, France","Estoril, Portugal",0.031,"",2021-09-07 16:20:00 UTC,2021-09-07 16:20:00 UTC,3583,Convelio202109071809220200
+1040,CVO-24782,air_freight,"Paris, France","Hong Kong, Hong Kong",0.032,freighter,2021-09-07 16:20:01 UTC,2021-09-07 16:20:01 UTC,147557,Convelio202109071809220200
+1041,CVO-9936,air_freight,"Paris, France","Hong Kong, Hong Kong",0.032,freighter,2021-09-07 16:20:02 UTC,2021-09-07 16:20:02 UTC,147557,Convelio202109071809220200
+1042,CVO-10631,air_freight,"Paris, France","Ringsted, Denmark",0.032,freighter,2021-09-07 16:20:03 UTC,2021-09-07 16:20:03 UTC,20567,Convelio202109071809220200
+1043,CVO-19542,air_freight,"Gennevilliers, France","Bellevue, United States",0.032,freighter,2021-09-07 16:20:04 UTC,2021-09-07 16:20:04 UTC,123352,Convelio202109071809220200
+1044,CVO-28489,air_freight,"Gennevilliers, France","Singapore, Singapore",0.032,freighter,2021-09-07 16:20:05 UTC,2021-09-07 16:20:05 UTC,164293,Convelio202109071809220200
+1045,CVO-19301,truck,"Paris, France","Strasbourg, France",0.032,"",2021-09-07 16:20:06 UTC,2021-09-07 16:20:06 UTC,1003,Convelio202109071809220200
+1046,CVO-20966,air_freight,"Paris, France","Singapore, Singapore",0.032,freighter,2021-09-07 16:20:07 UTC,2021-09-07 16:20:07 UTC,164248,Convelio202109071809220200
+1047,CVO-19018,truck,"Gennevilliers, France","Milano, Italy",0.032,"",2021-09-07 16:20:08 UTC,2021-09-07 16:20:08 UTC,1633,Convelio202109071809220200
+1048,CVO-18972,air_freight,"Paris, France","New York, United States",0.033,freighter,2021-09-07 16:20:09 UTC,2021-09-07 16:20:09 UTC,91196,Convelio202109071809220200
+1049,CVO-21734,air_freight,"Gennevilliers, France","New York, United States",0.033,freighter,2021-09-07 16:20:09 UTC,2021-09-07 16:20:09 UTC,91091,Convelio202109071809220200
+1050,CVO-36427,air_freight,"Gennevilliers, France","Dubai, United Arab Emirates (‫الإمارات العربية المتحدة‬‎)",0.033,freighter,2021-09-07 16:20:11 UTC,2021-09-07 16:20:11 UTC,82030,Convelio202109071809220200
+1051,CVO-32836,truck,"Gennevilliers, France","London, United Kingdom",0.034,"",2021-09-07 16:20:12 UTC,2021-09-07 16:20:12 UTC,897,Convelio202109071809220200
+1052,CVO-21063,air_freight,"Paris, France","Hong Kong, Hong Kong",0.034,freighter,2021-09-07 16:20:12 UTC,2021-09-07 16:20:12 UTC,156779,Convelio202109071809220200
+1053,CVO-22709,truck,"Gennevilliers, France","Madrid, Spain",0.034,"",2021-09-07 16:20:13 UTC,2021-09-07 16:20:13 UTC,2832,Convelio202109071809220200
+1054,CVO-15491,truck,"Paris, France","Mitcham, United Kingdom",0.034,"",2021-09-07 16:20:14 UTC,2021-09-07 16:20:14 UTC,900,Convelio202109071809220200
+1055,CVO-31161,air_freight,"Gennevilliers, France","Evergreen, United States",0.034,freighter,2021-09-07 16:20:15 UTC,2021-09-07 16:20:15 UTC,128701,Convelio202109071809220200
+1056,CVO-10612,air_freight,"Paris, France","Port Louis, Mauritius",0.034,freighter,2021-09-07 16:20:17 UTC,2021-09-07 16:20:17 UTC,153326,Convelio202109071809220200
+1057,CVO-18581,truck,"Washington, United States","Dallas, United States",0.034545455,"",2021-09-07 16:20:17 UTC,2021-09-07 16:20:17 UTC,7099,Convelio202109071809220200
+1058,CVO-32239,air_freight,"Paris, France","Dubai, United Arab Emirates",0.035,freighter,2021-09-07 16:20:18 UTC,2021-09-07 16:20:18 UTC,86905,Convelio202109071809220200
+1059,CVO-10742,air_freight,"Paris, France","Singapore, Singapore",0.035,freighter,2021-09-07 16:20:19 UTC,2021-09-07 16:20:19 UTC,179646,Convelio202109071809220200
+1060,CVO-25831,air_freight,"Gennevilliers, France","Hsinchu, Taiwan",0.035,freighter,2021-09-07 16:20:20 UTC,2021-09-07 16:20:20 UTC,164516,Convelio202109071809220200
+1061,CVO-9293,air_freight,"Paris, France","Chuo, Japan",0.036,freighter,2021-09-07 16:20:21 UTC,2021-09-07 16:20:21 UTC,167550,Convelio202109071809220200
+1062,CVO-24420,air_freight,"Paris, France","Denver, United States",0.036,freighter,2021-09-07 16:20:22 UTC,2021-09-07 16:20:22 UTC,135938,Convelio202109071809220200
+1063,CVO-36063,air_freight,"Paris, France","Chicago, United States",0.036,freighter,2021-09-07 16:20:23 UTC,2021-09-07 16:20:23 UTC,113946,Convelio202109071809220200
+1064,CVO-19194,air_freight,"Gennevilliers, France","Newport Beach, United States",0.037,freighter,2021-09-07 16:20:24 UTC,2021-09-07 16:20:24 UTC,161401,Convelio202109071809220200
+1065,CVO-13704,air_freight,"Gennevilliers, France","Prague, Czechia",0.037,freighter,2021-09-07 16:20:25 UTC,2021-09-07 16:20:25 UTC,21832,Convelio202109071809220200
+1066,CVO-16226,truck,"Paris, France","Corazzano, Italy",0.037,"",2021-09-07 16:20:26 UTC,2021-09-07 16:20:26 UTC,2552,Convelio202109071809220200
+1067,CVO-29056,air_freight,"Gennevilliers, France","Memphis, United States",0.037,freighter,2021-09-07 16:20:27 UTC,2021-09-07 16:20:27 UTC,129198,Convelio202109071809220200
+1068,CVO-16666,air_freight,"Gennevilliers, France","Cleveland, United States",0.037,freighter,2021-09-07 16:20:28 UTC,2021-09-07 16:20:28 UTC,110454,Convelio202109071809220200
+1069,CVO-29047,truck,"Newark, United States","Morton Grove, United States",0.037727273,"",2021-09-07 16:20:29 UTC,2021-09-07 16:20:29 UTC,3398,Convelio202109071809220200
+1070,CVO-10938,air_freight,"Gennevilliers, France","Milano, Italy",0.038,freighter,2021-09-07 16:20:30 UTC,2021-09-07 16:20:30 UTC,17010,Convelio202109071809220200
+1071,CVO-28253,truck,"Gennevilliers, France","Köln, Germany",0.038,"",2021-09-07 16:20:31 UTC,2021-09-07 16:20:31 UTC,1203,Convelio202109071809220200
+1072,CVO-16623,truck,"Gennevilliers, France","49.541111/ 18.281111, Czechia",0.039,"",2021-09-07 16:20:33 UTC,2021-09-07 16:20:33 UTC,16736,Convelio202109071809220200
+1073,CVO-20478,truck,"Paris, France","Hamburg, Germany",0.041,"",2021-09-07 16:20:34 UTC,2021-09-07 16:20:34 UTC,2405,Convelio202109071809220200
+1074,CVO-16780,air_freight,"Gennevilliers, France","Litchfield, United States",0.041,freighter,2021-09-07 16:20:36 UTC,2021-09-07 16:20:36 UTC,110885,Convelio202109071809220200
+1075,CVO-27862,air_freight,"New York, United States","Oberbüren, Switzerland (Schweiz)",0.041363636,freighter,2021-09-07 16:20:37 UTC,2021-09-07 16:20:37 UTC,124977,Convelio202109071809220200
+1076,CVO-29036,truck,"40.8451/-73.8661, United States","Gig Harbor, United States",0.041818182,"",2021-09-07 16:20:39 UTC,2021-09-07 16:20:39 UTC,40827,Convelio202109071809220200
+1077,CVO-17638,truck,"Gennevilliers, France","Lupcourt, France",0.042,"",2021-09-07 16:20:40 UTC,2021-09-07 16:20:40 UTC,962,Convelio202109071809220200
+1078,CVO-27346,truck,"Gennevilliers, France","Alcobendas, Spain",0.042,"",2021-09-07 16:20:41 UTC,2021-09-07 16:20:41 UTC,3453,Convelio202109071809220200
+1079,CVO-17805,truck,"Gennevilliers, France","Heidelberg, Germany",0.042,"",2021-09-07 16:20:42 UTC,2021-09-07 16:20:42 UTC,1544,Convelio202109071809220200
+1080,CVO-34817,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.042,freighter,2021-09-07 16:20:43 UTC,2021-09-07 16:20:43 UTC,193669,Convelio202109071809220200
+1081,CVO-33160,truck,"New York, United States","Sarasota, United States",0.043636364,"",2021-09-07 16:20:43 UTC,2021-09-07 16:20:43 UTC,5779,Convelio202109071809220200
+1082,CVO-33696,truck,"Paris, France","Nadur, Malta",0.044,"",2021-09-07 16:20:44 UTC,2021-09-07 16:20:44 UTC,5980,Convelio202109071809220200
+1083,CVO-14396,truck,"Thomasville, United States","New Braunfels, United States",0.044545455,"",2021-09-07 16:20:46 UTC,2021-09-07 16:20:46 UTC,4788,Convelio202109071809220200
+1084,CVO-13549,air_freight,"Gennevilliers, France","Seattle, United States",0.045,freighter,2021-09-07 16:20:47 UTC,2021-09-07 16:20:47 UTC,173592,Convelio202109071809220200
+1085,CVO-7464,air_freight,"Paris, France","Kowloon, Hong Kong",0.045,freighter,2021-09-07 16:20:48 UTC,2021-09-07 16:20:48 UTC,207523,Convelio202109071809220200
+1086,CVO-21770,truck,"Gennevilliers, France","Athen, Greece",0.046,"",2021-09-07 16:20:49 UTC,2021-09-07 16:20:49 UTC,7624,Convelio202109071809220200
+1087,CVO-26692,air_freight,"Paris, France","Hong Kong, Hong Kong",0.046,freighter,2021-09-07 16:20:50 UTC,2021-09-07 16:20:50 UTC,212113,Convelio202109071809220200
+1088,CVO-8604,air_freight,"Gennevilliers, France","Singapore, Singapore",0.047,freighter,2021-09-07 16:20:51 UTC,2021-09-07 16:20:51 UTC,241306,Convelio202109071809220200
+1089,CVO-20802,air_freight,"Paris, France","New York, United States",0.047,freighter,2021-09-07 16:20:52 UTC,2021-09-07 16:20:52 UTC,129885,Convelio202109071809220200
+1090,CVO-26800,air_freight,"Roissy-en-France, Île-de-France France","Miami Beach, United States",0.048,freighter,2021-09-07 16:20:53 UTC,2021-09-07 16:20:53 UTC,168991,Convelio202109071809220200
+1091,CVO-18430,truck,"Paris, France","Roma, Italy",0.049,"",2021-09-07 16:20:54 UTC,2021-09-07 16:20:54 UTC,4267,Convelio202109071809220200
+1092,CVO-19531,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.049,freighter,2021-09-07 16:20:55 UTC,2021-09-07 16:20:55 UTC,225947,Convelio202109071809220200
+1093,CVO-10649,air_freight,"Paris, France","Montréal, Canada",0.05,freighter,2021-09-07 16:20:56 UTC,2021-09-07 16:20:56 UTC,130614,Convelio202109071809220200
+1094,CVO-20018,air_freight,"Paris, France","Taipei City, Taiwan",0.05,freighter,2021-09-07 16:20:57 UTC,2021-09-07 16:20:57 UTC,235401,Convelio202109071809220200
+1095,CVO-19396,truck,"Paris, France","Roma, Italy",0.051,"",2021-09-07 16:20:58 UTC,2021-09-07 16:20:58 UTC,4441,Convelio202109071809220200
+1096,CVO-11940,air_freight,"Gennevilliers, France","Hong Kong, Hong Kong",0.054,freighter,2021-09-07 16:20:59 UTC,2021-09-07 16:20:59 UTC,249003,Convelio202109071809220200
+1097,CVO-34353,air_freight,"Paris, France","Osaka, Japan",0.054,freighter,2021-09-07 16:21:00 UTC,2021-09-07 16:21:00 UTC,249181,Convelio202109071809220200
+1098,CVO-34891,air_freight,"Golden Beach, United States","Anières, Switzerland",0.054545455,freighter,2021-09-07 16:21:01 UTC,2021-09-07 16:21:01 UTC,201161,Convelio202109071809220200
+1099,CVO-17140,air_freight,"Paris, France","Golden Beach, United States",0.055,freighter,2021-09-07 16:21:02 UTC,2021-09-07 16:21:02 UTC,192996,Convelio202109071809220200
+1100,CVO-29206,truck,"Gennevilliers, France","Milano, Italy",0.055,"",2021-09-07 16:21:03 UTC,2021-09-07 16:21:03 UTC,2806,Convelio202109071809220200
+1101,CVO-29050,truck,"Conover, United States","New York, United States",0.055909091,"",2021-09-07 16:21:04 UTC,2021-09-07 16:21:04 UTC,3702,Convelio202109071809220200
+1102,CVO-10104,air_freight,"Paris, France","Los Angeles, United States",0.056,freighter,2021-09-07 16:21:05 UTC,2021-09-07 16:21:05 UTC,243912,Convelio202109071809220200
+1103,CVO-23336,air_freight,"Paris, France","Laredo, United States",0.056,freighter,2021-09-07 16:21:06 UTC,2021-09-07 16:21:06 UTC,229545,Convelio202109071809220200
+1104,CVO-9548,air_freight,"Gennevilliers, France","Filothei, Greece",0.058,freighter,2021-09-07 16:21:07 UTC,2021-09-07 16:21:07 UTC,71516,Convelio202109071809220200
+1105,CVO-10956,air_freight,"Gennevilliers, France","Kaohsiung, Taiwan",0.058,freighter,2021-09-07 16:21:09 UTC,2021-09-07 16:21:09 UTC,276983,Convelio202109071809220200
+1106,CVO-24723,air_freight,"Paris, France","New York, United States",0.059,freighter,2021-09-07 16:21:09 UTC,2021-09-07 16:21:09 UTC,163048,Convelio202109071809220200
+1107,CVO-22739,air_freight,"Gennevilliers, France","New York, United States",0.059,freighter,2021-09-07 16:21:10 UTC,2021-09-07 16:21:10 UTC,162860,Convelio202109071809220200
+1108,CVO-10242,air_freight,"Gennevilliers, France","Mascot, Australia",0.06,freighter,2021-09-07 16:21:12 UTC,2021-09-07 16:21:12 UTC,484881,Convelio202109071809220200
+1109,CVO-19186,air_freight,"Gennevilliers, France","Inverness, United States",0.061,freighter,2021-09-07 16:21:13 UTC,2021-09-07 16:21:13 UTC,261338,Convelio202109071809220200
+1110,CVO-20232,truck,"Gennevilliers, France","Ouderkerk aan de Amstel, Netherlands",0.061,"",2021-09-07 16:21:15 UTC,2021-09-07 16:21:15 UTC,2008,Convelio202109071809220200
+1111,CVO-20134,air_freight,"Paris, France","Dallas, United States",0.062,freighter,2021-09-07 16:21:16 UTC,2021-09-07 16:21:16 UTC,236271,Convelio202109071809220200
+1112,CVO-34742,air_freight,"Gennevilliers, France","Singapore, Singapore",0.062,freighter,2021-09-07 16:21:17 UTC,2021-09-07 16:21:17 UTC,318318,Convelio202109071809220200
+1113,CVO-14922,truck,"Philadelphia, United States","North Kansas City, United States",0.062272727,"",2021-09-07 16:21:18 UTC,2021-09-07 16:21:18 UTC,8164,Convelio202109071809220200
+1114,CVO-14808,truck,"Conover, United States","Michigan, United States",0.062727273,"",2021-09-07 16:21:19 UTC,2021-09-07 16:21:19 UTC,5077,Convelio202109071809220200
+1115,CVO-2273,air_freight,"New York, United States","Moskva, Russia",0.063,freighter,2021-09-07 16:21:20 UTC,2021-09-07 16:21:20 UTC,226647,Convelio202109071809220200
+1116,CVO-24882,truck,"Gennevilliers, France","Hampton, United Kingdom",0.063,"",2021-09-07 16:21:21 UTC,2021-09-07 16:21:21 UTC,1667,Convelio202109071809220200
+1117,CVO-14810,truck,"Conover, United States","Naples, United States",0.063636364,"",2021-09-07 16:21:23 UTC,2021-09-07 16:21:23 UTC,5341,Convelio202109071809220200
+1118,CVO-20978,air_freight,"Gennevilliers, France","Palm Beach, United States",0.064,freighter,2021-09-07 16:21:24 UTC,2021-09-07 16:21:24 UTC,222348,Convelio202109071809220200
+1119,CVO-32014,air_freight,"Gennevilliers, France","Kowloon, Hong Kong",0.065,freighter,2021-09-07 16:21:25 UTC,2021-09-07 16:21:25 UTC,299756,Convelio202109071809220200
+1120,CVO-29681,air_freight,"Gennevilliers, France","Mallorca, Spain",0.066,freighter,2021-09-07 16:21:26 UTC,2021-09-07 16:21:26 UTC,44592,Convelio202109071809220200
+1121,CVO-19304,air_freight,"Gennevilliers, France","New Territories, Hong Kong",0.068,freighter,2021-09-07 16:21:26 UTC,2021-09-07 16:21:26 UTC,313334,Convelio202109071809220200
+1122,CVO-14924,truck,"San Antonio, United States","New York, United States",0.069090909,"",2021-09-07 16:21:27 UTC,2021-09-07 16:21:27 UTC,13856,Convelio202109071809220200
+1123,CVO-10068,air_freight,"Gennevilliers, France","Fairfield, United States",0.07,freighter,2021-09-07 16:21:28 UTC,2021-09-07 16:21:28 UTC,190715,Convelio202109071809220200
+1124,CVO-29189,truck,"Gennevilliers, France","London, United Kingdom",0.07,"",2021-09-07 16:21:29 UTC,2021-09-07 16:21:29 UTC,1846,Convelio202109071809220200
+1125,CVO-9285,air_freight,"Paris, France","Miami, United States",0.07,freighter,2021-09-07 16:21:29 UTC,2021-09-07 16:21:29 UTC,246374,Convelio202109071809220200
+1126,CVO-31166,air_freight,"Gennevilliers, France","Houston, United States",0.071,freighter,2021-09-07 16:21:30 UTC,2021-09-07 16:21:30 UTC,275432,Convelio202109071809220200
+1127,CVO-20350,air_freight,"Gennevilliers, France","Meggen, Switzerland",0.072,freighter,2021-09-07 16:21:31 UTC,2021-09-07 16:21:31 UTC,23655,Convelio202109071809220200
+1128,CVO-16229,air_freight,"GENNEVILLIERS, France","Vignale Monferrato, Italy",0.072,freighter,2021-09-07 16:21:33 UTC,2021-09-07 16:21:33 UTC,31713,Convelio202109071809220200
+1129,CVO-9996,air_freight,"Paris, France","Houston, United States",0.073,freighter,2021-09-07 16:21:34 UTC,2021-09-07 16:21:34 UTC,283432,Convelio202109071809220200
+1130,CVO-10245,air_freight,"Gennevilliers, France","San Francisco, United States",0.074,freighter,2021-09-07 16:21:34 UTC,2021-09-07 16:21:34 UTC,317382,Convelio202109071809220200
+1131,CVO-17640,truck,"Gennevilliers, France","Regensburg, Germany",0.078,"",2021-09-07 16:21:35 UTC,2021-09-07 16:21:35 UTC,4397,Convelio202109071809220200
+1132,CVO-17811,air_freight,"Gennevilliers, France","LIMASSOL, Cyprus",0.079,freighter,2021-09-07 16:21:36 UTC,2021-09-07 16:21:36 UTC,130358,Convelio202109071809220200
+1133,CVO-28471,air_freight,"Paris, France","New York, United States",0.08,freighter,2021-09-07 16:21:37 UTC,2021-09-07 16:21:37 UTC,221082,Convelio202109071809220200
+1134,CVO-19537,air_freight,"Paris, France","New York, United States",0.082,freighter,2021-09-07 16:21:38 UTC,2021-09-07 16:21:38 UTC,226609,Convelio202109071809220200
+1135,CVO-16529,air_freight,"Gennevilliers, France","Palm Beach, United States",0.083,freighter,2021-09-07 16:21:39 UTC,2021-09-07 16:21:39 UTC,288357,Convelio202109071809220200
+1136,CVO-28491,air_freight,"Gennevilliers, France","Woburn, United States",0.087,freighter,2021-09-07 16:21:40 UTC,2021-09-07 16:21:40 UTC,227980,Convelio202109071809220200
+1137,CVO-26987,truck,"Paris, France","Dudenhofen, Germany",0.088,"",2021-09-07 16:21:42 UTC,2021-09-07 16:21:42 UTC,3070,Convelio202109071809220200
+1138,CVO-14046,truck,"Atlanta, United States","San Ramon, United States",0.09,"",2021-09-07 16:21:43 UTC,2021-09-07 16:21:43 UTC,24087,Convelio202109071809220200
+1139,CVO-8621,air_freight,"Gennevilliers, France","Bingham Farms, United States",0.09,freighter,2021-09-07 16:21:44 UTC,2021-09-07 16:21:44 UTC,270098,Convelio202109071809220200
+1140,CVO-14663,truck,"Dallas, United States","Osterville, United States",0.090909091,"",2021-09-07 16:21:45 UTC,2021-09-07 16:21:45 UTC,18089,Convelio202109071809220200
+1141,CVO-11532,air_freight,"Gennevilliers, France","Bellaire, United States",0.094,freighter,2021-09-07 16:21:47 UTC,2021-09-07 16:21:47 UTC,365101,Convelio202109071809220200
+1142,CVO-19525,air_freight,"Paris, France","Kowloon, Hong Kong",0.094,freighter,2021-09-07 16:21:48 UTC,2021-09-07 16:21:48 UTC,433494,Convelio202109071809220200
+1143,CVO-30484,air_freight,"Paris, France","Los Angeles, United States",0.097,freighter,2021-09-07 16:21:49 UTC,2021-09-07 16:21:49 UTC,422490,Convelio202109071809220200
+1144,CVO-31836,air_freight,"Paris, France","Spring, United States",0.097,freighter,2021-09-07 16:21:50 UTC,2021-09-07 16:21:50 UTC,337681,Convelio202109071809220200
+1145,CVO-28044,truck,"Redondo Beach, United States","New York, United States",0.1,"",2021-09-07 16:21:52 UTC,2021-09-07 16:21:52 UTC,31189,Convelio202109071809220200
+1146,CVO-9511,air_freight,"Gennevilliers, France","Katy, United States",0.1,freighter,2021-09-07 16:21:53 UTC,2021-09-07 16:21:53 UTC,389256,Convelio202109071809220200
+1147,CVO-17526,truck,"Gennevilliers, France","Praha, Czechia",0.1,"",2021-09-07 16:21:54 UTC,2021-09-07 16:21:54 UTC,6976,Convelio202109071809220200
+1148,CVO-14911,truck,"Burlingame, United States","Austin, United States",0.100909091,"",2021-09-07 16:21:55 UTC,2021-09-07 16:21:55 UTC,19109,Convelio202109071809220200
+1149,CVO-27211,truck,"Gennevilliers, France","Bischofszell, Switzerland",0.102,"",2021-09-07 16:21:56 UTC,2021-09-07 16:21:56 UTC,4329,Convelio202109071809220200
+1150,CVO-14378,truck,"Los Angeles, United States","Little Rock, United States",0.117727273,"",2021-09-07 16:21:57 UTC,2021-09-07 16:21:57 UTC,22044,Convelio202109071809220200
+1151,CVO-22026,air_freight,"Gennevilliers, France","San Francisco, United States",0.124,freighter,2021-09-07 16:21:57 UTC,2021-09-07 16:21:57 UTC,531829,Convelio202109071809220200
+1152,CVO-31065,truck,"Gennevilliers, France","Torino, Italy",0.125,"",2021-09-07 16:21:58 UTC,2021-09-07 16:21:58 UTC,5837,Convelio202109071809220200
+1153,CVO-14666,truck,"Delray Beach, United States","Milton, United States",0.129090909,"",2021-09-07 16:22:00 UTC,2021-09-07 16:22:00 UTC,19709,Convelio202109071809220200
+1154,CVO-14653,truck,"Tuckahoe, United States","Bainbridge Island, United States",0.130454545,"",2021-09-07 16:22:01 UTC,2021-09-07 16:22:01 UTC,39896,Convelio202109071809220200
+1155,CVO-26479,air_freight,"New Orleans, United States","Singapore, Singapore",0.136818182,freighter,2021-09-07 16:22:03 UTC,2021-09-07 16:22:03 UTC,1058487,Convelio202109071809220200
+1156,CVO-7438,truck,"Gennevilliers, France","South Moravian Region, Czechia",0.137,"",2021-09-07 16:22:04 UTC,2021-09-07 16:22:04 UTC,11402,Convelio202109071809220200
+1157,CVO-34929,air_freight,"Gennevilliers, France","Taipei City, Taiwan",0.138,freighter,2021-09-07 16:22:05 UTC,2021-09-07 16:22:05 UTC,649641,Convelio202109071809220200
+1158,CVO-34562,air_freight,"Gennevilliers, France","Santa Clara, United States",0.139,freighter,2021-09-07 16:22:06 UTC,2021-09-07 16:22:06 UTC,597280,Convelio202109071809220200
+1159,CVO-30372,air_freight,"Gennevilliers, France","Minato, Japan",0.145,freighter,2021-09-07 16:22:07 UTC,2021-09-07 16:22:07 UTC,674578,Convelio202109071809220200
+1160,CVO-35712,truck,"Arlington, United States","Barnstable, United States",0.163181818,"",2021-09-07 16:22:09 UTC,2021-09-07 16:22:09 UTC,8429,Convelio202109071809220200
+1161,CVO-14222,truck,"Los Angeles, United States","Bloomfield Hills, United States",0.181818182,"",2021-09-07 16:22:10 UTC,2021-09-07 16:22:10 UTC,45454,Convelio202109071809220200
+1162,CVO-16419,truck,"New York, United States","Auburn, United States",0.185454545,"",2021-09-07 16:22:12 UTC,2021-09-07 16:22:12 UTC,19903,Convelio202109071809220200
+1163,CVO-11452,air_freight,"Gennevilliers, France","San Francisco, United States",0.186,freighter,2021-09-07 16:22:12 UTC,2021-09-07 16:22:12 UTC,797744,Convelio202109071809220200
+1164,CVO-14806,truck,"Stamford, United States","Costa Mesa, United States",0.186818182,"",2021-09-07 16:22:14 UTC,2021-09-07 16:22:14 UTC,58340,Convelio202109071809220200
+1165,CVO-34403,truck,"Union Mills, United States","Seattle, United States",0.19,"",2021-09-07 16:22:15 UTC,2021-09-07 16:22:15 UTC,53469,Convelio202109071809220200
+1166,CVO-26731,truck,"Saint-Denis, France","Corte Tegge, Italy",0.19,"",2021-09-07 16:22:17 UTC,2021-09-07 16:22:17 UTC,11669,Convelio202109071809220200
+1167,CVO-14471,truck,"New York, United States","Fairhope, United States",0.198636364,"",2021-09-07 16:22:18 UTC,2021-09-07 16:22:18 UTC,26417,Convelio202109071809220200
+1168,CVO-15467,truck,"Gardena, United States","Sarasota, United States",0.205,"",2021-09-07 16:22:18 UTC,2021-09-07 16:22:18 UTC,56254,Convelio202109071809220200
+1169,CVO-14225,truck,"New York, United States","San Gabriel, United States",0.227272727,"",2021-09-07 16:22:20 UTC,2021-09-07 16:22:20 UTC,70258,Convelio202109071809220200
+1170,CVO-14419,truck,"New York, United States","San Gabriel, United States",0.227272727,"",2021-09-07 16:22:21 UTC,2021-09-07 16:22:21 UTC,70258,Convelio202109071809220200
+1171,CVO-15424,air_freight,"Gennevilliers, France","Mykonos, Greece",0.241,freighter,2021-09-07 16:22:22 UTC,2021-09-07 16:22:22 UTC,313598,Convelio202109071809220200
+1172,CVO-16580,truck,"Paris, France","Roma, Italy",0.242,"",2021-09-07 16:22:23 UTC,2021-09-07 16:22:23 UTC,21075,Convelio202109071809220200
+1173,CVO-16402,truck,"Paris, France","Cannes, France",0.244,"",2021-09-07 16:22:24 UTC,2021-09-07 16:22:24 UTC,13276,Convelio202109071809220200
+1174,CVO-14056,truck,"Santa Fe Springs, United States","Greenwich, United States",0.267272727,"",2021-09-07 16:22:25 UTC,2021-09-07 16:22:25 UTC,83338,Convelio202109071809220200
+1175,CVO-14804,truck,"Morganton, United States","Los Angeles, United States",0.296363636,"",2021-09-07 16:22:26 UTC,2021-09-07 16:22:26 UTC,77544,Convelio202109071809220200
