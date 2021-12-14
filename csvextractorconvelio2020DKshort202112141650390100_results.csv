@@ -1,0 +1,6 @@
+id,customer_id,calculation_type,origin,destination,weight_in_tonnes,specific_method,created_at,updated_at,co2_in_g,file_name,fuel_type,car_type,plane_type,freight_type
+151,customer_id,calculation_type,origin,destination,0.0,specific_method,2021-12-14 15:50:39 UTC,2021-12-14 15:50:39 UTC,,csvextractorconvelio2020DKshort202112141650390100,fuel_type,car_type,plane_type,freight_type
+152,CVO-10003,air_freight,"7602 RG,Almelo,NL","78744,Austin,US",0.08,"",2021-12-14 15:50:40 UTC,2021-12-14 15:50:40 UTC,,csvextractorconvelio2020DKshort202112141650390100,"","",freighter,""
+153,asd,air_freight,HAM,JFK,1.0,"",2021-12-14 15:50:40 UTC,2021-12-14 15:50:40 UTC,,csvextractorconvelio2020DKshort202112141650390100,"","",freighter,""
+154,CVO-10187,ship_freight,"75010,Paris,FR","96161,Truckee,US",261.0,"",2021-12-14 15:50:40 UTC,2021-12-14 15:50:40 UTC,17302735,csvextractorconvelio2020DKshort202112141650390100,"","","",dry_cargo
+155,CVO-10002,truck,"75008,Paris,FR","1245,Collonge-Bellerive,CH",18.0,"",2021-12-14 15:50:41 UTC,2021-12-14 15:50:41 UTC,583936,csvextractorconvelio2020DKshort202112141650390100,"","","",""
