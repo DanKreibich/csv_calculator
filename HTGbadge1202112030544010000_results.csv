@@ -1,0 +1,145 @@
+id,customer_id,calculation_type,origin,destination,weight_in_tonnes,specific_method,created_at,updated_at,co2_in_g,file_name,fuel_type,car_type
+1,HTG,car,"44579, Castrop-Rauxel, DE","26409, Harlesiel, DE",,"",2021-12-03 05:44:01 UTC,2021-12-03 05:44:01 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+2,HTG,car,"48720, Rosendahl, DE","25997, Hörnum auf Sylt, DE",,"",2021-12-03 05:44:01 UTC,2021-12-03 05:44:01 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+3,HTG,car,"15711, Königs Wusterhausen, DE","25980, Westerland auf Sylt, DE",,"",2021-12-03 05:44:02 UTC,2021-12-03 05:44:02 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+4,HTG,car,"59872, Meschede, DE","18586, Baabe, DE",,"",2021-12-03 05:44:02 UTC,2021-12-03 05:44:02 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+5,HTG,car,"97638, Mellrichstadt, DE","23669, Timmendorfer Strand, DE",,"",2021-12-03 05:44:02 UTC,2021-12-03 05:44:02 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+6,HTG,car,"31234, Edemissen, DE","25761, Büsum, DE",,"",2021-12-03 05:44:02 UTC,2021-12-03 05:44:02 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+7,HTG,car,"85591, Vater stetten, DE","25761, Büsum, DE",,"",2021-12-03 05:44:02 UTC,2021-12-03 05:44:02 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+8,HTG,car,"98716, Elgersburg, DE","18586, Sellin (Ostseebad), DE",,"",2021-12-03 05:44:02 UTC,2021-12-03 05:44:02 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+9,HTG,car,"42653, Solingen, DE","59939, Olsberg-Elpe, DE",,"",2021-12-03 05:44:03 UTC,2021-12-03 05:44:03 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+10,HTG,car,"71701, Schwieberdingen, DE","78136, Schonach im Schwarzwald, DE",,"",2021-12-03 05:44:03 UTC,2021-12-03 05:44:03 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+11,HTG,car,"29614, Soltau, DE","18119, Rostock / Warnemünde, DE",,"",2021-12-03 05:44:03 UTC,2021-12-03 05:44:03 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+12,HTG,car,"41515, Grevenbroich, DE","26427, Werdum, DE",,"",2021-12-03 05:44:03 UTC,2021-12-03 05:44:03 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+13,HTG,car,"63452, Hanau, DE","82399, Raisting, DE",,"",2021-12-03 05:44:03 UTC,2021-12-03 05:44:03 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+14,HTG,car,"53844, Troisdorf, DE","18556, Wiek, DE",,"",2021-12-03 05:44:03 UTC,2021-12-03 05:44:03 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+15,HTG,car,"53945, Blankenheim, DE","23683, Scharbeutz, DE",,"",2021-12-03 05:44:03 UTC,2021-12-03 05:44:03 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+16,HTG,car,"63839, Kleinwallstadt, DE","26316, Nordseebad Dangast, DE",,"",2021-12-03 05:44:04 UTC,2021-12-03 05:44:04 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+17,HTG,car,"44534, Lünen, DE","23683, Scharbeutz, DE",,"",2021-12-03 05:44:04 UTC,2021-12-03 05:44:04 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+18,HTG,car,"88213, Baden-Württemberg - Ravensburg, DE","26506, Norddeich, DE",,"",2021-12-03 05:44:04 UTC,2021-12-03 05:44:04 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+19,HTG,car,"49377, Vechta, DE","26409, Carolinensiel-Harlesiel, DE",,"",2021-12-03 05:44:04 UTC,2021-12-03 05:44:04 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+20,HTG,car,"14482, Potsdam, DE","17248, Rechlin-Nord, DE",,"",2021-12-03 05:44:04 UTC,2021-12-03 05:44:04 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+21,HTG,car,"23881, Breitenfelde, DE","23775, Großenbrode, DE",,"",2021-12-03 05:44:04 UTC,2021-12-03 05:44:04 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+22,HTG,car,"33161, Hövelhof, DE","35110, Frankenau, DE",,"",2021-12-03 05:44:04 UTC,2021-12-03 05:44:04 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+23,HTG,car,"4571, Rötha, DE","18586, Göhren, DE",,"",2021-12-03 05:44:05 UTC,2021-12-03 05:44:05 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+24,HTG,car,"8428, Langenbernsdorf, DE","2736, Oppach, DE",,"",2021-12-03 05:44:05 UTC,2021-12-03 05:44:05 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+25,HTG,car,"1609, Gröditz, DE","17213, Göhren-Lebbin, DE",,"",2021-12-03 05:44:05 UTC,2021-12-03 05:44:05 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+26,HTG,car,"45665, Recklinghausen, DE","48565, Steinfurt, DE",,"",2021-12-03 05:44:05 UTC,2021-12-03 05:44:05 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+27,HTG,car,"38530, Didderse, DE","18225, Ostseebad Kühlungsborn, DE",,"",2021-12-03 05:44:05 UTC,2021-12-03 05:44:05 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+28,HTG,car,"27404, Zeven, DE","25938, Wyk auf Föhr, DE",,"",2021-12-03 05:44:05 UTC,2021-12-03 05:44:05 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+29,HTG,car,"33378, Rheda-Wiedenbrück, DE","18374, Zingst, DE",,"",2021-12-03 05:44:05 UTC,2021-12-03 05:44:05 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+30,HTG,car,"58095, Hagen, DE","25840, Rantrumdeich, DE",,"",2021-12-03 05:44:05 UTC,2021-12-03 05:44:05 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+31,HTG,car,"64367, Mühltal, DE","26409, Carolinensiel-Harlesiel, DE",,"",2021-12-03 05:44:05 UTC,2021-12-03 05:44:05 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+32,HTG,car,"13156, Berlin, DE","18196, Petschow-Lieblingshof, DE",,"",2021-12-03 05:44:06 UTC,2021-12-03 05:44:06 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+33,HTG,car,"31515, Wunstorf, DE","23946, Boltenhagen, DE",,"",2021-12-03 05:44:06 UTC,2021-12-03 05:44:06 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+34,HTG,car,"7937, Zeulenroda, DE","94249, Bodenmais, DE",,"",2021-12-03 05:44:06 UTC,2021-12-03 05:44:06 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+35,HTG,car,"77746, Schutterwald, DE","75323, Bad Wildbad, DE",,"",2021-12-03 05:44:06 UTC,2021-12-03 05:44:06 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+36,HTG,car,"27336, Häuslingen, DE","27639, Wurster Nordseeküste, DE",,"",2021-12-03 05:44:06 UTC,2021-12-03 05:44:06 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+37,HTG,car,"22117, Hamburg, DE","17429, Bansin, DE",,"",2021-12-03 05:44:06 UTC,2021-12-03 05:44:06 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+38,HTG,car,"54456, Tawern, DE","54329, Konz, DE",,"",2021-12-03 05:44:06 UTC,2021-12-03 05:44:06 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+39,HTG,car,"27333, Bücken, DE","26676, Barßel, DE",,"",2021-12-03 05:44:06 UTC,2021-12-03 05:44:06 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+40,HTG,car,"76889, Gleiszellen, DE","23669, Timmendorfer Strand / Niendorf, DE",,"",2021-12-03 05:44:07 UTC,2021-12-03 05:44:07 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+41,HTG,car,"53757, Sankt Augustin, DE","66679, Losheim am See, DE",,"",2021-12-03 05:44:07 UTC,2021-12-03 05:44:07 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+42,HTG,car,"60326, Frankfurt am Main, DE","17248, Rechlin/Müritz, DE",,"",2021-12-03 05:44:07 UTC,2021-12-03 05:44:07 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+43,HTG,car,"23896, Panten ot Hammer, DE","18586, Baabe (Ostseebad), DE",,"",2021-12-03 05:44:07 UTC,2021-12-03 05:44:07 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+44,HTG,car,"23795, Bad Segeberg, DE","23946, Boltenhagen, DE",,"",2021-12-03 05:44:07 UTC,2021-12-03 05:44:07 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+45,HTG,car,"33397, Rietberg, DE","26434, Wangerland, DE",,"",2021-12-03 05:44:07 UTC,2021-12-03 05:44:07 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+46,HTG,car,"68307, Mannheim, DE","24235, Wendtorf, DE",,"",2021-12-03 05:44:07 UTC,2021-12-03 05:44:07 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+47,HTG,car,"92253, Schnaittenbach, DE","23684, Scharbeutz, DE",,"",2021-12-03 05:44:07 UTC,2021-12-03 05:44:07 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+48,HTG,car,"47495, Rheinberg, DE","23747, Dahme, DE",,"",2021-12-03 05:44:08 UTC,2021-12-03 05:44:08 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+49,HTG,car,"77694, kehl, DE","24217, Schönberger Strand, DE",,"",2021-12-03 05:44:08 UTC,2021-12-03 05:44:08 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+50,HTG,car,"10318, Berlin, DE","25761, Büsum, DE",,"",2021-12-03 05:44:08 UTC,2021-12-03 05:44:08 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+51,HTG,car,"12205, Berlin, DE","18586, Göhren (Ostseebad), DE",,"",2021-12-03 05:44:08 UTC,2021-12-03 05:44:08 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+52,HTG,car,"37186, Moringen, DE","25826, St. Peter-Ording, DE",,"",2021-12-03 05:44:08 UTC,2021-12-03 05:44:08 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+53,HTG,car,"14199, Berlin, DE","27726, Worpswede, DE",,"",2021-12-03 05:44:08 UTC,2021-12-03 05:44:08 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+54,HTG,car,"15732, Schulzendorf, DE","17424, Heringsdorf, DE",,"",2021-12-03 05:44:08 UTC,2021-12-03 05:44:08 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+55,HTG,car,"97074, Würzburg, DE","24955, Harrislee, DE",,"",2021-12-03 05:44:08 UTC,2021-12-03 05:44:08 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+56,HTG,car,"23669, Timmendorfer Strand, DE","18374, Zingst, DE",,"",2021-12-03 05:44:08 UTC,2021-12-03 05:44:08 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+57,HTG,car,"64319, Pfungstadt, DE","24376, Kappeln, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+58,HTG,car,"59199, Bönen, DE","83324, Ruhpolding, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+59,HTG,car,"37120, Bovenden, DE","34326, Morschen, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+60,HTG,car,"44534, Lünen, DE","37444, Sankt Andreasberg, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+61,HTG,car,"35410, Hungen, DE","24376, OstseeResort Olpenitz, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+62,HTG,car,"87527, Sonthofen, DE","87527, Sonthofen, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+63,HTG,car,"8371, Glauchau, DE","17207, Röbel, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+64,HTG,car,"71636, Ludwigsburg, DE","85084, Reichertshofen, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+65,HTG,car,"33142, Büren, DE","25980, Tinnum auf Sylt, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+66,HTG,car,"10439, Prenzlauer Berg, DE","17440, Kröslin, DE",,"",2021-12-03 05:44:09 UTC,2021-12-03 05:44:09 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+67,HTG,car,"8228, Rodewisch, DE","25813, Husum, DE",,"",2021-12-03 05:44:10 UTC,2021-12-03 05:44:10 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+68,HTG,car,"37191, Katlenburg-Lindau, DE","27639, Wurster Nordseeküste, DE",,"",2021-12-03 05:44:10 UTC,2021-12-03 05:44:10 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+69,HTG,car,"22359, Hamburg, DE","25938, Wyk auf Föhr, DE",,"",2021-12-03 05:44:10 UTC,2021-12-03 05:44:10 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+70,HTG,car,"31848, Bad Münder, DE","25938, Oevenum, DE",,"",2021-12-03 05:44:10 UTC,2021-12-03 05:44:10 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+71,HTG,car,"63517, Rodenbach, DE","94253, Bischofsmais, DE",,"",2021-12-03 05:44:10 UTC,2021-12-03 05:44:10 UTC,,HTGbadge1202112030544010000,petrol,"large
+"
+72,HTG,car,"56856, Zell, DE","94538, Fürstenstein, DE",,"",2021-12-03 05:44:10 UTC,2021-12-03 05:44:10 UTC,,HTGbadge1202112030544010000,petrol,"large
+"

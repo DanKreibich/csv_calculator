@@ -48,7 +48,11 @@ class CalculatorController < ApplicationController
                     origin:values[2],
                     destination: values[3],
                     weight_in_tonnes: values[4],
-                    specific_method: values[5]}
+                    specific_method: values[5],
+                    fuel_type: values[6],
+                    car_type: values[7],
+                    plane_type: values[8],
+                    freight_type: values[9]} # don't forget to add migration and to also add in "calculate_generically"
       input_array << data_hash
     end
     input_array
@@ -65,6 +69,10 @@ class CalculatorController < ApplicationController
         destination: record[:destination],
         weight_in_tonnes: record[:weight_in_tonnes],
         specific_method: record[:specific_method],
+        fuel_type: record[:fuel_type],
+        car_type: record[:car_type],
+        plane_type: record[:plane_type],
+        freight_type: record[:freight_type],
         co2_in_g: co2,
         file_name: file_name
       )
@@ -106,7 +114,11 @@ class CalculatorController < ApplicationController
             origin: record[:origin],
             destination: record[:destination],
             weight_in_tonnes: record[:weight_in_tonnes].to_f,
-            plane_type: record[:specific_method]
+            plane_type: record[:specific_method],
+            fuel_type: record[:fuel_type],
+            car_type: record[:car_type],
+            plane_type: record[:plane_type],
+            freight_type: record[:freight_type]
           }
         }
       ]
